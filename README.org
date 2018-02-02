@@ -26,6 +26,7 @@ A list of package manager.
 | [[https://crystal-lang.org/][Crystal]]           | [[https://crystal-lang.org/docs/installation/][Download]]            | [[https://github.com/crystal-lang/shards][Shards]]                | [[https://crystalshards.herokuapp.com/][Crystalshards]]                                |
 | [[https://dlang.org/][D]]                 | [[https://dlang.org/download.html][Download]]            | DUB (Built-in)        | [[http://code.dlang.org/][DUB Packages]]                                 |
 | [[https://www.dartlang.org/tools/pub][Dark]]              | [[https://www.dartlang.org/install][Download]]            | [[https://www.dartlang.org/tools/pub][Pub]]                   | [[https://pub.dartlang.org/][Dark Packages]]                                |
+| [[https://dotnet.github.io/][dotnet(.Net)]]      | [[https://www.microsoft.com/net/download/linux][Download]]            | [[https://www.nuget.org/][NuGet]]                 | [[https://www.nuget.org/][NuGet Packages]]                               |
 | [[https://elixir-lang.org/install.html][Elixir]]            | [[https://elixir-lang.org/install.html][Download]]            | Mix (Elixir Built-in) | [[https://hex.pm/][hex]]                                          |
 | [[http://elm-lang.org/][elm]]               | [[https://guide.elm-lang.org/install.html][Download]]            | [[http://elm-lang.org/blog/announce/package-manager][elm-get]]               | [[http://package.elm-lang.org/][elm Repository]]                               |
 | [[https://www.gnu.org/software/emacs/][Emacs]]             | [[https://www.gnu.org/software/emacs/][Download]]            | Built-in              | [[https://melpa.org/#/][MELPA]]                                        |
@@ -55,7 +56,6 @@ A list of package manager.
 | [[https://unity3d.com/][Unity3D]]           | [[https://unity3d.com/][Download]]            | [[https://github.com/modesttree/projeny][Projeny]]               | [[https://www.assetstore.unity3d.com/][Asset Store]]                                  |
 | Web               | None                | [[https://bower.io/][Bower]]                 | [[https://bower.io/search/][Bower Search]]                                 |
 | IoT               | None                | [[http://platformio.org/][PlatformaIO]]           | [[http://platformio.org/lib][Libraries]]                                    |
-|                   |                     |                       |                                              |
 
 ** OS
 
