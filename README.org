@@ -63,6 +63,7 @@ A list of package manager.
 | [[https://improbable.io/games][SpatialOS]] | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                  |
 | [[https://www.microsoft.com/en-us/windows/][Windows]]   | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][Chocolatey Packages]]   |
 | [[https://www.android.com/][Android]]   | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][Google Play]]           |
+| [[https://solus-project.com/][Solus]]     | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]              |
 
 ** Editor
 | Name          | Installer | PackageManager      | Repository               |
