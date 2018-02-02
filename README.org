@@ -76,13 +76,16 @@ A list of package manager.
 | [[https://www.visualstudio.com/downloads/][VisualStudio]]  | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]              |
 | [[http://www.vim.org/][Vim]]           | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]] | [[https://vim.sourceforge.io/search.php][Search for Vim Script]]    |
 | [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]        |
-|               |           |                     |                          |
 
 ** Other
-| Name      | Installer | PackageManager    | Repository   |
-|-----------+-----------+-------------------+--------------|
-| IoT       | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]    |
-| [[https://www.qt.io/][QT]]        | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]     |
-| [[https://unity3d.com/][Unity3D]]   | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]]  |
-| Web       | None      | [[https://bower.io/][Bower]]             | [[https://bower.io/search/][Bower Search]] |
-| [[https://wordpress.org/][WordPress]] | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]      |
+| Name        | Installer | PackageManager    | Repository   |
+|-------------+-----------+-------------------+--------------|
+| [[https://www.docker.com][Docker]]      | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][Docker Hub]]   |
+| IoT         | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]    |
+| [[https://nanobox.io/][Nanobox]]     | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None         |
+| [[https://puppet.com/][Puppet]]      | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]]  |
+| [[https://www.qt.io/][QT]]          | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]     |
+| [[https://coreos.com/rkt/][Rocket(rkt)]] | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]   |
+| [[https://unity3d.com/][Unity3D]]     | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]]  |
+| Web         | None      | [[https://bower.io/][Bower]]             | [[https://bower.io/search/][Bower Search]] |
+| [[https://wordpress.org/][WordPress]]   | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]      |
