@@ -62,18 +62,21 @@ A list of package manager.
 | [[http://www.ros.org/][ROS]]       | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS Repository]]        |
 | [[https://improbable.io/games][SpatialOS]] | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                  |
 | [[https://www.microsoft.com/en-us/windows/][Windows]]   | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][Chocolatey Packages]]   |
+| [[https://www.android.com/][Android]]   | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][Google Play]]           |
 
 ** Editor
-| Name         | Installer | PackageManager      | Repository               |
-|--------------+-----------+---------------------+--------------------------|
-| [[https://atom.io/][Atom]]         | [[https://atom.io/][Download]]  | Built-in/[[https://atmospherejs.com/][Meteor]]     | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]            |
-| [[https://eclipse.org/][Eclipse]]      | [[https://www.eclipse.org/downloads/][Download]]  | Built-in            | [[https://marketplace.eclipse.org/][Marketplace]]              |
-| [[https://www.gnu.org/software/emacs/][Emacs]]        | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in/[[https://github.com/cask/cask][Cask]]       | [[https://melpa.org/#/][MELPA]]                    |
-| [[https://www.sublimetext.com/][Sublime]]      | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]      | [[https://packagecontrol.io/][Package Control Packages]] |
-| [[https://code.visualstudio.com/][VSCode]]       | [[https://code.visualstudio.com/Download][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]              |
-| [[https://www.visualstudio.com/downloads/][VisualStudio]] | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]              |
-| [[http://www.vim.org/][Vim]]          | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]] | [[https://vim.sourceforge.io/search.php][Search for Vim Script]]    |
-| [[https://developer.apple.com/xcode/][Xcode]]        | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]        |
+| Name          | Installer | PackageManager      | Repository               |
+|---------------+-----------+---------------------+--------------------------|
+| [[https://atom.io/][Atom]]          | [[https://atom.io/][Download]]  | Built-in/[[https://atmospherejs.com/][Meteor]]     | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]            |
+| [[https://eclipse.org/][Eclipse]]       | [[https://www.eclipse.org/downloads/][Download]]  | Built-in            | [[https://marketplace.eclipse.org/][Marketplace]]              |
+| [[https://www.gnu.org/software/emacs/][Emacs]]         | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in/[[https://github.com/cask/cask][Cask]]       | [[https://melpa.org/#/][MELPA]]                    |
+| [[https://www.jetbrains.com/][JetBrains-IDE]] | [[https://www.jetbrains.com/][Download]]  | Built-in            | [[https://plugins.jetbrains.com/][Plugins Repository]]       |
+| [[https://www.sublimetext.com/][Sublime]]       | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]      | [[https://packagecontrol.io/][Package Control Packages]] |
+| [[https://code.visualstudio.com/][VSCode]]        | [[https://code.visualstudio.com/Download][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]              |
+| [[https://www.visualstudio.com/downloads/][VisualStudio]]  | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]              |
+| [[http://www.vim.org/][Vim]]           | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]] | [[https://vim.sourceforge.io/search.php][Search for Vim Script]]    |
+| [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]        |
+|               |           |                     |                          |
 
 ** Other
 | Name      | Installer | PackageManager    | Repository   |
