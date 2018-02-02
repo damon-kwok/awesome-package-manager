@@ -6,7 +6,9 @@
 #+TODO: TODO DOING DONE
 
 A list of package manager.
-https://imgs.xkcd.com/comics/packages.png
+
+
+[[https://imgs.xkcd.com/comics/packages.png]]
 
 ** Programming Languages
 
@@ -47,8 +49,8 @@ https://imgs.xkcd.com/comics/packages.png
 | [[http://www.ros.org/][ROS]]               | [[http://www.ros.org/][Download]]            | [[http://wiki.ros.org/rosdep][rosdep]]                | [[http://www.ros.org/browse/list.php][ROS Repository]]                               |
 | [[https://www.ruby-lang.org/][Ruby]]              | [[https://www.ruby-lang.org/][Download]]            | [[https://rubygems.org/][Rubygems]]              | [[https://rubygems.org/][Rubygems Repository]]                          |
 | [[https://www.rust-lang.org/][Rust]]              | [[https://www.rustup.rs/][rustup]]              | [[https://github.com/rust-lang/cargo/][cargo]] (Rust Build-in) | [[https://crates.io/][crates.io]]                                    |
-| [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]            | [[http://www.scala-sbt.org/][sbt]]                   | [[search.maven.org][Maven Repository]]                             |
-| [[http://sml-family.org/Basis/][SML]]               | [[smlnj.org][smlnj]]               | [[https://github.com/standardml/smackage][smackage]]              | [[http://sml-family.org/Basis/][Standard ML Basis Library]]                    |
+| [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]            | [[http://www.scala-sbt.org/][sbt]]                   | [[http://search.maven.org/][Maven Repository]]                             |
+| [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]               | [[https://github.com/standardml/smackage][smackage]]              | [[http://sml-family.org/Basis/][Standard ML Basis Library]]                    |
 | [[https://nodejs.org/][Nodejs]]            | [[https://nodejs.org/][Download]]            | [[https://www.npmjs.com/][npm]]                   | [[https://www.npmjs.com/][NPM Repository]]                               |
 | [[https://unity3d.com/][Unity3D]]           | [[https://unity3d.com/][Download]]            | [[https://github.com/modesttree/projeny][Projeny]]               | [[https://www.assetstore.unity3d.com/][Asset Store]]                                  |
 | Web               | None                | [[https://bower.io/][Bower]]                 | [[https://bower.io/search/][Bower Search]]                                 |
