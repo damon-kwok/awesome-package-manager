@@ -33,7 +33,7 @@ A list of package manager.
 | [[https://www.haskell.org/][Haskell]]           | [[http://haskellstack.org][Stack]]       | [[http://haskellstack.org][Stack]]                 | [[https://hackage.haskell.org/][Hackage]]              |
 | [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]    | [[https://lib.haxe.org][haxelib]](Build-in)     | [[https://lib.haxe.org/][Haxe Repository]]      |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]] | idris (self)          | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]            |
-| [[https://www.java.com/][Java]]              | [[http://maven.apache.org/][Maven]]       | [[http://maven.apache.org/][Maven]]                 | [[http://search.maven.org/][Maven Repository]]     |
+| [[https://www.java.com/][Java]]              | [[https://gradle.org/][Gradle]]       | [[https://gradle.org/][Gradle]]                 | [[http://search.maven.org/][Maven Repository]]     |
 | [[https://www.javascript.com/][JavaScript]]        | WebBrowser  | [[http://www.jamjs.org/][Jam]]                   | [[http://www.jamjs.org/packages/][Jam Packages]]         |
 | [[https://julialang.org/][Julia]]             | [[https://julialang.org/downloads/][Download]]    | [[https://pkg.julialang.org/][Pkg]] (Julia Built-in)  | [[https://pkg.julialang.org/][Julia Repository]]     |
 | [[https://nim-lang.org/docs/lib.html][Nim]]               | [[https://nim-lang.org/install.html][Download]]    | [[https://github.com/nim-lang/nimble][Nimble]]                | [[https://nim-lang.org/docs/lib.html][Nim Repository]]       |
