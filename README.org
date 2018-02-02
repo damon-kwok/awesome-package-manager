@@ -50,6 +50,7 @@ A list of package manager.
 | [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]    | [[http://www.scala-sbt.org/][sbt]]               | [[http://search.maven.org/][Maven Repository]]     |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]       | [[https://github.com/standardml/smackage][smackage]]          | [[http://sml-family.org/Basis/][SML Basis Library]]    |
 | [[https://nodejs.org/][Nodejs]]            | [[https://nodejs.org/][Download]]    | [[https://www.npmjs.com/][npm]]               | [[https://www.npmjs.com/][NPM Repository]]       |
+| [[http://www.zsh.org/][zsh]]               | [[https://github.com/unixorn/awesome-zsh-plugins#installation][Install]]     | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]              |
 
 ** OS
 | Name      | Installer | PackageManager    | Repository            |
