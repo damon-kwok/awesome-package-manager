@@ -57,7 +57,7 @@ A list of package manager.
 |---------+-----------+------------------+-----------------------|
 | [[https://www.cygwin.com/][Cygwin]]  | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/svnpenn/sage][sage]] [[https://github.com/transcode-open/apt-cyg][apt-cyg]]     | [[https://cygwin.com/cgi-bin2/package-grep.cgi][Cygwin Package Search]] |
 | [[http://www.msys2.org/][MSYS2]]   | [[http://www.msys2.org/][Download]]  | pacman(Built-in) | [[https://github.com/alexpux/msys2-packages][MSYS2-packages]]        |
-| [[https://www.kernel.org/][Linux]]   | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]        |                       |
+| [[https://www.kernel.org/][Linux]]   | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]        | [[http://braumeister.org/][Formulae]]              |
 | [[https://developer.apple.com/macos/][macOS]]   | None      | [[https://brew.sh/][Homebrew]]         | [[http://formulae.brew.sh/][Formulae]]              |
 | [[https://nixos.org/][NixOS]]   | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]              | [[https://nixos.org/nixpkgs/][Nix Packages]]          |
 | [[http://www.ros.org/][ROS]]     | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]           | [[http://www.ros.org/browse/list.php][ROS Repository]]        |
@@ -68,7 +68,7 @@ A list of package manager.
 |--------------+-----------+---------------------+-------------------------------|
 | [[https://atom.io/][ATOM]]         | [[https://atom.io/][Download]]  | Built-in/[[https://atmospherejs.com/][Meteor]]     | [[https://atom.io/packages][ATOM Packages]] [[https://atmospherejs.com/][Meteor Packages]] |
 | [[https://eclipse.org/][Eclipse]]      | [[https://www.eclipse.org/downloads/][Download]]  | Built-in            | [[https://marketplace.eclipse.org/][Marketplace]]                   |
-| [[https://www.gnu.org/software/emacs/][*Emacs*]]      | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in            | [[https://melpa.org/#/][MELPA]]                         |
+| [[https://www.gnu.org/software/emacs/][*Emacs*]]      | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in/[[https://github.com/cask/cask][Cask]]       | [[https://melpa.org/#/][MELPA]]                         |
 | [[https://www.sublimetext.com/][Sublime]]      | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]      | [[https://packagecontrol.io/][Package Control Packages]]      |
 | [[https://code.visualstudio.com/][VSCode]]       | [[https://code.visualstudio.com/Download][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]                   |
 | [[https://www.visualstudio.com/downloads/][VisualStudio]] | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]                   |
