@@ -51,16 +51,17 @@ A list of package manager.
 | [[https://nodejs.org/][Nodejs]]            | [[https://nodejs.org/][Download]]    | [[https://www.npmjs.com/][npm]]                   | [[https://www.npmjs.com/][NPM Repository]]       |
 
 ** OS
-| Name    | Installer | PackageManager   | Repository            |
-|---------+-----------+------------------+-----------------------|
-| [[https://www.cygwin.com/][Cygwin]]  | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/svnpenn/sage][sage]] [[https://github.com/transcode-open/apt-cyg][apt-cyg]]     | [[https://cygwin.com/cgi-bin2/package-grep.cgi][Cygwin Package Search]] |
-| [[http://www.msys2.org/][MSYS2]]   | [[http://www.msys2.org/][Download]]  | pacman(Built-in) | [[https://github.com/alexpux/msys2-packages][MSYS2-packages]]        |
-| [[https://www.kernel.org/][Linux]]   | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]        | [[http://braumeister.org/][Formulae]]              |
-| [[https://developer.apple.com/macos/][macOS]]   | None      | [[https://brew.sh/][Homebrew]]         | [[http://formulae.brew.sh/][Formulae]]              |
-| [[https://nixos.org/][NixOS]]   | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]              | [[https://nixos.org/nixpkgs/][Nix Packages]]          |
-| [[http://node-os.com/][NodeOS]]  | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)    | [[https://www.npmjs.com/][NPM Repository]]        |
-| [[http://www.ros.org/][ROS]]     | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]           | [[http://www.ros.org/browse/list.php][ROS Repository]]        |
-| [[https://www.microsoft.com/en-us/windows/][Windows]] | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]       | [[https://chocolatey.org/packages][Chocolatey Packages]]   |
+| Name      | Installer | PackageManager    | Repository            |
+|-----------+-----------+-------------------+-----------------------|
+| [[https://www.cygwin.com/][Cygwin]]    | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/svnpenn/sage][sage]] [[https://github.com/transcode-open/apt-cyg][apt-cyg]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][Cygwin Package Search]] |
+| [[http://www.msys2.org/][MSYS2]]     | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://github.com/alexpux/msys2-packages][MSYS2-packages]]        |
+| [[https://www.kernel.org/][Linux]]     | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]              |
+| [[https://developer.apple.com/macos/][macOS]]     | None      | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]              |
+| [[https://nixos.org/][NixOS]]     | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][Nix Packages]]          |
+| [[http://node-os.com/][NodeOS]]    | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPM Repository]]        |
+| [[http://www.ros.org/][ROS]]       | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS Repository]]        |
+| [[https://improbable.io/games][SpatialOS]] | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                  |
+| [[https://www.microsoft.com/en-us/windows/][Windows]]   | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][Chocolatey Packages]]   |
 
 ** Editor
 | Name         | Installer | PackageManager      | Repository               |
@@ -75,10 +76,10 @@ A list of package manager.
 | [[https://developer.apple.com/xcode/][Xcode]]        | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]        |
 
 ** Other
-| Name      | Installer | PackageManager | Repository   |
-|-----------+-----------+----------------+--------------|
-| IoT       | None      | [[http://platformio.org/][PlatformaIO]]    | [[http://platformio.org/lib][Libraries]]    |
-| [[https://www.qt.io/][QT]]        | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]        | [[https://inqlude.org/][#inqlude]]     |
-| [[https://unity3d.com/][Unity3D]]   | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]        | [[https://www.assetstore.unity3d.com/][Asset Store]]  |
-| Web       | None      | [[https://bower.io/][Bower]]          | [[https://bower.io/search/][Bower Search]] |
-| [[https://wordpress.org/][WordPress]] | [[https://wordpress.org/download/][Download]]  | Built-in       | [[https://libraries.io/wordpress][Plugins]]      |
+| Name      | Installer | PackageManager    | Repository   |
+|-----------+-----------+-------------------+--------------|
+| IoT       | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]    |
+| [[https://www.qt.io/][QT]]        | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]     |
+| [[https://unity3d.com/][Unity3D]]   | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]]  |
+| Web       | None      | [[https://bower.io/][Bower]]             | [[https://bower.io/search/][Bower Search]] |
+| [[https://wordpress.org/][WordPress]] | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]      |
