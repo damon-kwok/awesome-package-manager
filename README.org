@@ -12,72 +12,72 @@ A list of package manager.
 
 ** Programming Languages
 
-| Name              | Installer   | Build Tool            | Repository           |
-|-------------------+-------------+-----------------------+----------------------|
-| [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in    | [[https://github.com/bpkg/bpkg][bpkg]]                  | [[http://www.bpkg.sh/][bpkg.sh]]              |
-| [[http://www.open-std.org/JTC1/SC22/WG14/][C]]                 | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]   | [[https://github.com/clibs/clib/wiki/Packages][clib]]                  | [[https://github.com/clibs/clib/wiki/Packages][Packages]]             |
-| [[http://www.cplusplus.com/][C++]]               | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]   | [[https://conan.io/][Conan]]                 | [[https://bintray.com/conan][Official]] / [[https://bintray.com/bincrafters/public-conan][Community]] |
-| [[https://www.visualstudio.com/][C++ (MSVC)]]        | [[https://www.visualstudio.com/downloads/][Download]]    | [[https://github.com/Microsoft/vcpkg][Vcpkg]]                 | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][List of libraries]]    |
-| [[https://cmake.org/][CMake]]             | [[https://cmake.org/download][Download]]    | [[https://github.com/iauns/cpm][CPM]]                   | [[http://www.cpm.rocks/][CPM Repository]]       |
-| [[https://clojure.org/][Clojure]]           | [[https://leiningen.org/][Leiningen]]   | [[https://leiningen.org/][Leiningen]]             | [[https://clojars.org/][clojars]]              |
-| [[https://common-lisp.net/][ConmmonLisp]]       | [[https://github.com/roswell/roswell][Roswell]]     | [[https://www.quicklisp.org/][Quicklisp]]             | [[https://www.quicklisp.org/beta/releases.html][Quicklisp Repository]] |
-| [[https://cocoapods.org/][Cocoa]]([[https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html][Objc]]/[[https://swift.org/][Swift]]) | [[https://swift.org/download/][*nix]] [[https://swiftforwindows.github.io/][win]]    | [[https://cocoapods.org/][CocoaPods]]             | [[https://cocoapods.org/][CocoaPods Repository]] |
-| [[https://crystal-lang.org/][Crystal]]           | [[https://crystal-lang.org/docs/installation/][Download]]    | [[https://github.com/crystal-lang/shards][Shards]]                | [[https://crystalshards.herokuapp.com/][Crystalshards]]        |
-| [[https://dlang.org/][D]]                 | [[https://dlang.org/download.html][Download]]    | [[http://code.dlang.org/][DUB]] (Built-in)        | [[http://code.dlang.org/][DUB Packages]]         |
-| [[https://www.dartlang.org/tools/pub][Dark]]              | [[https://www.dartlang.org/install][Download]]    | [[https://www.dartlang.org/tools/pub][Pub]]                   | [[https://pub.dartlang.org/][Dark Packages]]        |
-| [[https://dotnet.github.io/][dotnet(.Net)]]      | [[https://www.microsoft.com/net/download/linux][Download]]    | [[https://www.nuget.org/][NuGet]]                 | [[https://www.nuget.org/][NuGet Packages]]       |
-| [[https://elixir-lang.org/install.html][Elixir]]            | [[https://elixir-lang.org/install.html][Download]]    | [[https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html][Mix]] (Elixir Built-in) | [[https://hex.pm/][hex]]                  |
-| [[http://elm-lang.org/][elm]]               | [[https://guide.elm-lang.org/install.html][Download]]    | [[http://elm-lang.org/blog/announce/package-manager][elm-get]]               | [[http://package.elm-lang.org/][elm Repository]]       |
-| [[http://www.erlang.org/][Erlang]]            | [[http://www.erlang.org/][Download]]    | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]                | [[https://hex.pm/][hex]]                  |
-| [[https://golang.org/][Go]]                | [[https://golang.org/dl/][Download]]    | [[https://melody.sh/docs/howto/install/][Melody]]                | [[https://melody.sh/repo/][melodyRepo]]           |
-| [[https://www.haskell.org/][Haskell]]           | [[http://haskellstack.org][Stack]]       | [[http://haskellstack.org][Stack]]                 | [[https://hackage.haskell.org/][Hackage]]              |
-| [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]    | [[https://lib.haxe.org][haxelib]](Build-in)     | [[https://lib.haxe.org/][Haxe Repository]]      |
-| [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]] | idris (self)          | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]            |
-| [[https://www.java.com/][Java]]              | [[https://gradle.org/][Gradle]]       | [[https://gradle.org/][Gradle]]                 | [[http://search.maven.org/][Maven Repository]]     |
-| [[https://www.javascript.com/][JavaScript]]        | WebBrowser  | [[http://www.jamjs.org/][Jam]]                   | [[http://www.jamjs.org/packages/][Jam Packages]]         |
-| [[https://julialang.org/][Julia]]             | [[https://julialang.org/downloads/][Download]]    | [[https://pkg.julialang.org/][Pkg]] (Julia Built-in)  | [[https://pkg.julialang.org/][Julia Repository]]     |
-| [[https://www.latex-project.org/][LaTeX]] | [[http://www.tug.org/texlive/][TeX Live]] | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]] | [[https://www.ctan.org/][CPAN]] |
-| [[https://nim-lang.org/docs/lib.html][Nim]]               | [[https://nim-lang.org/install.html][Download]]    | [[https://github.com/nim-lang/nimble][Nimble]]                | [[https://nim-lang.org/docs/lib.html][Nim Repository]]       |
-| [[https://ocaml.org/][OCaml]]             | [[https://opam.ocaml.org/][OPAM]]        | [[https://opam.ocaml.org/packages/][OPAM]]                  | [[https://opam.ocaml.org/packages/][OPAM Repository]]      |
-| [[https://www.perl.org/][Perl]]              | Build-in    | [[https://www.cpan.org/][CPAN]]                  | [[https://www.cpan.org/][CPAN Repository]]      |
-| [[http://php.net/][PHP]]               | [[http://php.net/downloads.php][Download]]    | [[https://getcomposer.org][Composer]]              | [[https://packagist.org/][Packagist]]            |
-| [[http://www.purescript.org/][PureScript]]        | [[https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md][NPM]]         | [[https://github.com/purescript/psc-package][psc-package]]           | [[https://github.com/purescript/package-sets/blob/master/packages.json][packages.json]]        |
-| [[https://www.python.org/][Python]]            | [[https://www.python.org/][Download]]    | [[https://pypi.python.org/pypi/pip/][pip]]                   | [[https://pypi.python.org/pypi/pip/][PyPI]]                 |
-| [[https://cran.r-project.org/][R]]                 | [[https://cran.r-project.org/][Download]]    | [[https://www.r-pkg.org][CRAN]] Built-in         | [[https://www.r-pkg.org/][METACRAN]]             |
-| [[http://racket-lang.org/][Racket]]            | [[http://download.racket-lang.org/][Download]]    | [[https://docs.racket-lang.org/raco/][raco]]                  | [[http://pkgs.racket-lang.org/][Racket Packages]]      |
-| [[https://www.ruby-lang.org/][Ruby]]              | [[https://www.ruby-lang.org/][Download]]    | [[https://rubygems.org/][Rubygems]]              | [[https://rubygems.org/][Rubygems Repository]]  |
-| [[https://www.rust-lang.org/][Rust]]              | [[https://www.rustup.rs/][rustup]]      | [[https://github.com/rust-lang/cargo/][cargo]] (Rust Build-in) | [[https://crates.io/][crates.io]]            |
-| [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]    | [[http://www.scala-sbt.org/][sbt]]                   | [[http://search.maven.org/][Maven Repository]]     |
-| [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]       | [[https://github.com/standardml/smackage][smackage]]              | [[http://sml-family.org/Basis/][SML Basis Library]]    |
-| [[https://nodejs.org/][Nodejs]]            | [[https://nodejs.org/][Download]]    | [[https://www.npmjs.com/][npm]]                   | [[https://www.npmjs.com/][NPM Repository]]       |
+| Name              | Installer   | Build Tool        | Repository           |
+|-------------------+-------------+-------------------+----------------------|
+| [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in    | [[https://github.com/bpkg/bpkg][bpkg]]              | [[http://www.bpkg.sh/][bpkg.sh]]              |
+| [[http://www.open-std.org/JTC1/SC22/WG14/][C]]                 | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]   | [[https://github.com/clibs/clib/wiki/Packages][clib]]              | [[https://github.com/clibs/clib/wiki/Packages][Packages]]             |
+| [[http://www.cplusplus.com/][C++]]               | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]   | [[https://conan.io/][Conan]]             | [[https://bintray.com/conan][Official]] / [[https://bintray.com/bincrafters/public-conan][Community]] |
+| [[https://www.visualstudio.com/][C++ (MSVC)]]        | [[https://www.visualstudio.com/downloads/][Download]]    | [[https://github.com/Microsoft/vcpkg][Vcpkg]]             | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][List of libraries]]    |
+| [[https://cmake.org/][CMake]]             | [[https://cmake.org/download][Download]]    | [[https://github.com/iauns/cpm][CPM]]               | [[http://www.cpm.rocks/][CPM Repository]]       |
+| [[https://clojure.org/][Clojure]]           | [[https://leiningen.org/][Leiningen]]   | [[https://leiningen.org/][Leiningen]]         | [[https://clojars.org/][clojars]]              |
+| [[https://common-lisp.net/][ConmmonLisp]]       | [[https://github.com/roswell/roswell][Roswell]]     | [[https://www.quicklisp.org/][Quicklisp]]         | [[https://www.quicklisp.org/beta/releases.html][Quicklisp Repository]] |
+| [[https://cocoapods.org/][Cocoa]]([[https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html][Objc]]/[[https://swift.org/][Swift]]) | [[https://swift.org/download/][*nix]] / [[https://swiftforwindows.github.io/][win]]  | [[https://cocoapods.org/][CocoaPods]]         | [[https://cocoapods.org/][CocoaPods Repository]] |
+| [[https://crystal-lang.org/][Crystal]]           | [[https://crystal-lang.org/docs/installation/][Download]]    | [[https://github.com/crystal-lang/shards][Shards]]            | [[https://crystalshards.herokuapp.com/][Crystalshards]]        |
+| [[https://dlang.org/][D]]                 | [[https://dlang.org/download.html][Download]]    | [[http://code.dlang.org/][DUB]] (Built-in)    | [[http://code.dlang.org/][DUB Packages]]         |
+| [[https://www.dartlang.org/tools/pub][Dark]]              | [[https://www.dartlang.org/install][Download]]    | [[https://www.dartlang.org/tools/pub][Pub]]               | [[https://pub.dartlang.org/][Dark Packages]]        |
+| [[https://dotnet.github.io/][dotnet(.Net)]]      | [[https://www.microsoft.com/net/download/linux][Download]]    | [[https://www.nuget.org/][NuGet]]             | [[https://www.nuget.org/][NuGet Packages]]       |
+| [[https://elixir-lang.org/install.html][Elixir]]            | [[https://elixir-lang.org/install.html][Download]]    | [[https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html][Mix]] (Built-in)    | [[https://hex.pm/][Hex Repository]]       |
+| [[http://elm-lang.org/][Elm]]               | [[https://guide.elm-lang.org/install.html][Download]]    | [[http://elm-lang.org/blog/announce/package-manager][elm-get]]           | [[http://package.elm-lang.org/][Elm Repository]]       |
+| [[http://www.erlang.org/][Erlang]]            | [[http://www.erlang.org/][Download]]    | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]            | [[https://hex.pm/][Hex Repository]]       |
+| [[https://golang.org/][Go]]                | [[https://golang.org/dl/][Download]]    | [[https://melody.sh/docs/howto/install/][Melody]]            | [[https://melody.sh/repo/][melodyRepo]]           |
+| [[https://www.haskell.org/][Haskell]]           | [[http://haskellstack.org][Stack]]       | [[http://haskellstack.org][Stack]]             | [[https://hackage.haskell.org/][Hackage]]              |
+| [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]    | [[https://lib.haxe.org][haxelib]](Built-in) | [[https://lib.haxe.org/][Haxe Repository]]      |
+| [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]] | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)  | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]            |
+| [[https://www.java.com/][Java]]              | [[https://gradle.org/][Gradle]]      | [[https://gradle.org/][Gradle]]            | [[http://search.maven.org/][Maven Repository]]     |
+| [[https://www.javascript.com/][JavaScript]]        | WebBrowser  | [[http://www.jamjs.org/][Jam]]               | [[http://www.jamjs.org/packages/][Jam Packages]]         |
+| [[https://julialang.org/][Julia]]             | [[https://julialang.org/downloads/][Download]]    | [[https://pkg.julialang.org/][Pkg]] (Built-in)    | [[https://pkg.julialang.org/][Julia Repository]]     |
+| [[https://www.latex-project.org/][LaTeX]]             | [[http://www.tug.org/texlive/][TeX Live]]    | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]]             | [[https://www.ctan.org/][CTAN]]                 |
+| [[https://nim-lang.org/docs/lib.html][Nim]]               | [[https://nim-lang.org/install.html][Download]]    | [[https://github.com/nim-lang/nimble][Nimble]]            | [[https://nim-lang.org/docs/lib.html][Nim Repository]]       |
+| [[https://ocaml.org/][OCaml]]             | [[https://opam.ocaml.org/][OPAM]]        | [[https://opam.ocaml.org/packages/][OPAM]]              | [[https://opam.ocaml.org/packages/][OPAM Repository]]      |
+| [[https://www.perl.org/][Perl]]              | Built-in    | [[https://www.cpan.org/][CPAN]]              | [[https://www.cpan.org/][CPAN Repository]]      |
+| [[http://php.net/][PHP]]               | [[http://php.net/downloads.php][Download]]    | [[https://getcomposer.org][Composer]]          | [[https://packagist.org/][Packagist]]            |
+| [[http://www.purescript.org/][PureScript]]        | [[https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md][NPM]]         | [[https://github.com/purescript/psc-package][psc-package]]       | [[https://github.com/purescript/package-sets/blob/master/packages.json][packages.json]]        |
+| [[https://www.python.org/][Python]]            | [[https://www.python.org/][Download]]    | [[https://pypi.python.org/pypi/pip/][pip]]               | [[https://pypi.python.org/pypi/pip/][PyPI]]                 |
+| [[https://cran.r-project.org/][R]]                 | [[https://cran.r-project.org/][Download]]    | [[https://www.r-pkg.org][CRAN]] Built-in     | [[https://www.r-pkg.org/][METACRAN]]             |
+| [[http://racket-lang.org/][Racket]]            | [[http://download.racket-lang.org/][Download]]    | [[https://docs.racket-lang.org/raco/][raco]]              | [[http://pkgs.racket-lang.org/][Racket Packages]]      |
+| [[https://www.ruby-lang.org/][Ruby]]              | [[https://www.ruby-lang.org/][Download]]    | [[https://rubygems.org/][Rubygems]]          | [[https://rubygems.org/][Rubygems Repository]]  |
+| [[https://www.rust-lang.org/][Rust]]              | [[https://www.rustup.rs/][rustup]]      | [[https://github.com/rust-lang/cargo/][cargo]] (Built-in)  | [[https://crates.io/][crates.io]]            |
+| [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]    | [[http://www.scala-sbt.org/][sbt]]               | [[http://search.maven.org/][Maven Repository]]     |
+| [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]       | [[https://github.com/standardml/smackage][smackage]]          | [[http://sml-family.org/Basis/][SML Basis Library]]    |
+| [[https://nodejs.org/][Nodejs]]            | [[https://nodejs.org/][Download]]    | [[https://www.npmjs.com/][npm]]               | [[https://www.npmjs.com/][NPM Repository]]       |
 
 ** OS
 | Name      | Installer | PackageManager    | Repository            |
 |-----------+-----------+-------------------+-----------------------|
-| [[https://www.cygwin.com/][Cygwin]]    | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/svnpenn/sage][sage]] [[https://github.com/transcode-open/apt-cyg][apt-cyg]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][Cygwin Package Search]] |
+| [[https://www.android.com/][Android]]   | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][Google Play]]           |
+| [[https://www.cygwin.com/][Cygwin]]    | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/svnpenn/sage][Sage]] / [[https://github.com/transcode-open/apt-cyg][apt-cyg]]    | [[https://cygwin.com/cgi-bin2/package-grep.cgi][Cygwin Package Search]] |
 | [[http://www.msys2.org/][MSYS2]]     | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://github.com/alexpux/msys2-packages][MSYS2-packages]]        |
 | [[https://www.kernel.org/][Linux]]     | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]              |
 | [[https://developer.apple.com/macos/][macOS]]     | None      | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]              |
 | [[https://nixos.org/][NixOS]]     | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][Nix Packages]]          |
 | [[http://node-os.com/][NodeOS]]    | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPM Repository]]        |
 | [[http://www.ros.org/][ROS]]       | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS Repository]]        |
+| [[https://solus-project.com/][Solus]]     | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]              |
 | [[https://improbable.io/games][SpatialOS]] | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                  |
 | [[https://www.microsoft.com/en-us/windows/][Windows]]   | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][Chocolatey Packages]]   |
-| [[https://www.android.com/][Android]]   | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][Google Play]]           |
-| [[https://solus-project.com/][Solus]]     | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]              |
 
 ** Editor
-| Name          | Installer | PackageManager      | Repository               |
-|---------------+-----------+---------------------+--------------------------|
-| [[https://atom.io/][Atom]]          | [[https://atom.io/][Download]]  | Built-in/[[https://atmospherejs.com/][Meteor]]     | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]            |
-| [[https://eclipse.org/][Eclipse]]       | [[https://www.eclipse.org/downloads/][Download]]  | Built-in            | [[https://marketplace.eclipse.org/][Marketplace]]              |
-| [[https://www.gnu.org/software/emacs/][Emacs]]         | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in/[[https://github.com/cask/cask][Cask]]       | [[https://melpa.org/#/][MELPA]]                    |
-| [[https://www.jetbrains.com/][JetBrains-IDE]] | [[https://www.jetbrains.com/][Download]]  | Built-in            | [[https://plugins.jetbrains.com/][Plugins Repository]]       |
-| [[https://www.sublimetext.com/][Sublime]]       | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]      | [[https://packagecontrol.io/][Package Control Packages]] |
-| [[https://code.visualstudio.com/][VSCode]]        | [[https://code.visualstudio.com/Download][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]              |
-| [[https://www.visualstudio.com/downloads/][VisualStudio]]  | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]              |
-| [[http://www.vim.org/][Vim]]           | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]] | [[https://vim.sourceforge.io/search.php][Search for Vim Script]]    |
-| [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]        |
+| Name          | Installer | PackageManager      | Repository              |
+|---------------+-----------+---------------------+-------------------------|
+| [[https://atom.io/][Atom]]          | [[https://atom.io/][Download]]  | Built-in / [[https://atmospherejs.com/][Meteor]]   | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]           |
+| [[https://eclipse.org/][Eclipse]]       | [[https://www.eclipse.org/downloads/][Download]]  | Built-in            | [[https://marketplace.eclipse.org/][Marketplace]]             |
+| [[https://www.gnu.org/software/emacs/][Emacs]]         | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in / [[https://github.com/cask/cask][Cask]]     | [[https://melpa.org/#/][MELPA]]                   |
+| [[https://www.jetbrains.com/][JetBrains-IDE]] | [[https://www.jetbrains.com/][Download]]  | Built-in            | [[https://plugins.jetbrains.com/][Plugins Repository]]      |
+| [[https://www.sublimetext.com/][Sublime]]       | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]      | [[https://packagecontrol.io/][PackageControl Packages]] |
+| [[https://code.visualstudio.com/][VSCode]]        | [[https://code.visualstudio.com/Download][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]             |
+| [[https://www.visualstudio.com/downloads/][VisualStudio]]  | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]             |
+| [[http://www.vim.org/][Vim]]           | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]] | [[https://vim.sourceforge.io/search.php][Search for Vim Script]]   |
+| [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]       |
 
 ** Other
 | Name        | Installer | PackageManager    | Repository   |
