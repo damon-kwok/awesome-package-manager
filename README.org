@@ -9,26 +9,27 @@
 
 | Name        | Installer | Build Tool            | Repository                |
 |-------------+-----------+-----------------------+---------------------------|
-| Bash        | [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Homepage]]  | [[https://github.com/bpkg/bpkg][bpkg]]                  | [[http://www.bpkg.sh/][bpkg.sh]]                   |
-| Clojure     | [[https://leiningen.org/][Leiningen]] | [[https://leiningen.org/][Leiningen]]             | [[https://clojars.org/][clojars]]                   |
-| ConmmonLisp | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]             | [[https://www.quicklisp.org/beta/releases.html][Quicklisp Repository]]      |
-| Erlang      | [[http://www.erlang.org/][Homepage]]  | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]                | [[https://hex.pm/][hex]]                       |
-| Elixir      | [[https://elixir-lang.org/install.html][Homepage]]  | Mix (Elixir Built-in) | [[https://hex.pm/][hex]]                       |
-| Haskell     | [[http://haskellstack.org][Stack]]     | [[http://haskellstack.org][Stack]]                 | [[https://hackage.haskell.org/][Hackage]]                   |
-| Java        | [[http://maven.apache.org/][Maven]]     | [[http://maven.apache.org/][Maven]]                 | [[http://search.maven.org/][Maven Repository]]          |
-| Julia       | [[julialang.org][Homepage]]  | Pkg (Julia Built-in)  | [[https://pkg.julialang.org/][Julia Repository]]          |
-| OCaml       | [[https://opam.ocaml.org/][OPAM]]      | [[https://opam.ocaml.org/packages/][OPAM]]                  | [[https://opam.ocaml.org/packages/][OPAM Repository]]           |
-| Perl        | Build-in  | [[https://www.cpan.org/][CPAN]]                  | [[https://www.cpan.org/][CPAN]]                      |
-| Python      | [[https://www.python.org/][Homepage]]  | [[https://pypi.python.org/pypi/pip/][pip]]                   | [[https://pypi.python.org/pypi/pip/][PyPI]]                      |
-| Ruby        | [[https://www.ruby-lang.org/][Homepage]]  | [[https://rubygems.org/][RubyGems]]              | [[https://rubygems.org/][RubyGems]]                  |
-| Rust        | [[https://www.rustup.rs/][rustup]]    | [[https://github.com/rust-lang/cargo/][cargo]] (Rust Build-in) | [[https://crates.io/][crates.io]]                 |
-| Scala       | [[http://www.scala-lang.org/][Homepage]]  | [[http://www.scala-sbt.org/][sbt]]                   | [[search.maven.org][Maven Repository]]          |
-| SML         | [[smlnj.org][smlnj]]     | [[https://github.com/standardml/smackage][smackage]]              | [[http://sml-family.org/Basis/][Standard ML Basis Library]] |
-| Nodejs      | [[https://nodejs.org/][Homepage]]  | [[https://www.npmjs.com/][npm]]                   | [[https://www.npmjs.com/][NPM Repository]]            |
-| Unity       | [[https://unity3d.com/][Homepage]]  | [[https://github.com/modesttree/projeny][Projeny]]               | [[https://www.assetstore.unity3d.com/][Asset Store]]               |
-| ROS         | [[http://www.ros.org/][Homepage]]  | [[http://wiki.ros.org/rosdep][rosdep]]                | [[http://www.ros.org/browse/list.php][ROS Repository]]                          |
-|             |           |                       |                           |
+| [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]        | Built-in  | [[https://github.com/bpkg/bpkg][bpkg]]                  | [[http://www.bpkg.sh/][bpkg.sh]]                   |
+| [[https://clojure.org/][Clojure]]     | [[https://leiningen.org/][Leiningen]] | [[https://leiningen.org/][Leiningen]]             | [[https://clojars.org/][clojars]]                   |
+| [[https://common-lisp.net/][ConmmonLisp]] | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]             | [[https://www.quicklisp.org/beta/releases.html][Quicklisp Repository]]      |
+| [[http://www.erlang.org/][Erlang]]      | [[http://www.erlang.org/][Download]]  | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]                | [[https://hex.pm/][hex]]                       |
+| [[https://elixir-lang.org/install.html][Elixir]]      | [[https://elixir-lang.org/install.html][Download]]  | Mix (Elixir Built-in) | [[https://hex.pm/][hex]]                       |
+| [[https://www.haskell.org/][Haskell]]     | [[http://haskellstack.org][Stack]]     | [[http://haskellstack.org][Stack]]                 | [[https://hackage.haskell.org/][Hackage]]                   |
+| [[https://www.java.com/][Java]]        | [[http://maven.apache.org/][Maven]]     | [[http://maven.apache.org/][Maven]]                 | [[http://search.maven.org/][Maven Repository]]          |
+| [[https://julialang.org/][Julia]]       | [[https://julialang.org/downloads/][Download]]  | Pkg (Julia Built-in)  | [[https://pkg.julialang.org/][Julia Repository]]          |
+| [[https://ocaml.org/][OCaml]]       | [[https://opam.ocaml.org/][OPAM]]      | [[https://opam.ocaml.org/packages/][OPAM]]                  | [[https://opam.ocaml.org/packages/][OPAM Repository]]           |
+| [[https://www.perl.org/][Perl]]        | Build-in  | [[https://www.cpan.org/][CPAN]]                  | [[https://www.cpan.org/][CPAN Repository]]           |
+| [[https://www.python.org/][Python]]      | [[https://www.python.org/][Download]]  | [[https://pypi.python.org/pypi/pip/][pip]]                   | [[https://pypi.python.org/pypi/pip/][PyPI]]                      |
+| [[https://www.ruby-lang.org/][Ruby]]        | [[https://www.ruby-lang.org/][Download]]  | [[https://rubygems.org/][RubyGems]]              | [[https://rubygems.org/][RubyGems]]                  |
+| [[https://www.rust-lang.org/][Rust]]        | [[https://www.rustup.rs/][rustup]]    | [[https://github.com/rust-lang/cargo/][cargo]] (Rust Build-in) | [[https://crates.io/][crates.io]]                 |
+| [[http://www.scala-lang.org/][Scala]]       | [[http://www.scala-lang.org/][Download]]  | [[http://www.scala-sbt.org/][sbt]]                   | [[search.maven.org][Maven Repository]]          |
+| [[http://sml-family.org/Basis/][SML]]         | [[smlnj.org][smlnj]]     | [[https://github.com/standardml/smackage][smackage]]              | [[http://sml-family.org/Basis/][Standard ML Basis Library]] |
+| [[https://nodejs.org/][Nodejs]]      | [[https://nodejs.org/][Download]]  | [[https://www.npmjs.com/][npm]]                   | [[https://www.npmjs.com/][NPM Repository]]            |
+| [[https://unity3d.com/][Unity3D]]     | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]               | [[https://www.assetstore.unity3d.com/][Asset Store]]               |
+| [[http://www.ros.org/][ROS]]         | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]                | [[http://www.ros.org/browse/list.php][ROS Repository]]            |
 
 * OS
 
 * Other
+
+
