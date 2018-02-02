@@ -5,7 +5,10 @@
 #+OPTIONS: toc:nil creator:nil author:nil email:nil timestamp:nil html-postamble:nil
 #+TODO: TODO DOING DONE
 
-* Programming Languages
+A list of package manager.
+
+
+** Programming Languages
 
 | Name        | Installer   | Build Tool            | Repository                |
 |-------------+-------------+-----------------------+---------------------------|
@@ -15,6 +18,7 @@
 | [[https://crystal-lang.org/][Crystal]]     | [[https://crystal-lang.org/docs/installation/][Download]]    | [[https://github.com/crystal-lang/shards][Shards]]                | [[https://crystalshards.herokuapp.com/][Crystalshards]]             |
 | [[http://www.erlang.org/][Erlang]]      | [[http://www.erlang.org/][Download]]    | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]                | [[https://hex.pm/][hex]]                       |
 | [[https://elixir-lang.org/install.html][Elixir]]      | [[https://elixir-lang.org/install.html][Download]]    | Mix (Elixir Built-in) | [[https://hex.pm/][hex]]                       |
+| [[https://golang.org/][Go]]          | [[https://golang.org/dl/][Download]]    | [[https://melody.sh/docs/howto/install/][Melody]]                | [[https://melody.sh/repo/][melodyRepo]]                |
 | [[https://www.haskell.org/][Haskell]]     | [[http://haskellstack.org][Stack]]       | [[http://haskellstack.org][Stack]]                 | [[https://hackage.haskell.org/][Hackage]]                   |
 | [[https://www.idris-lang.org/][Idris]]       | [[https://www.idris-lang.org/download/][Cabal/Stack]] | idris (self)          | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Third-party libraries]]     |
 | [[https://www.java.com/][Java]]        | [[http://maven.apache.org/][Maven]]       | [[http://maven.apache.org/][Maven]]                 | [[http://search.maven.org/][Maven Repository]]          |
@@ -31,10 +35,9 @@
 | [[https://nodejs.org/][Nodejs]]      | [[https://nodejs.org/][Download]]    | [[https://www.npmjs.com/][npm]]                   | [[https://www.npmjs.com/][NPM Repository]]            |
 | [[https://unity3d.com/][Unity3D]]     | [[https://unity3d.com/][Download]]    | [[https://github.com/modesttree/projeny][Projeny]]               | [[https://www.assetstore.unity3d.com/][Asset Store]]               |
 | [[http://www.ros.org/][ROS]]         | [[http://www.ros.org/][Download]]    | [[http://wiki.ros.org/rosdep][rosdep]]                | [[http://www.ros.org/browse/list.php][ROS Repository]]            |
-|             |             |                       |                           |
 
-* OS
+** OS
 
-* Other
+** Other
 
 
