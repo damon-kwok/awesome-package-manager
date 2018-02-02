@@ -1,0 +1,30 @@
+#+TITLE:     Awesome Package Manager
+#+AUTHOR:    damon-kwok
+#+EMAIL:     damon-kwok@outlook.com
+#+DATE:      2018-01-15
+#+OPTIONS: toc:nil creator:nil author:nil email:nil timestamp:nil html-postamble:nil
+#+TODO: TODO DOING DONE
+
+* Programming Languages
+
+| Name        | Installer | Build Tool            | Repository                |
+|-------------+-----------+-----------------------+---------------------------|
+| Erlang      |           | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]                | [[https://hex.pm/][hex]]                       |
+| Elixir      |           | Mix (Elixir Built-in) | [[https://hex.pm/][hex]]                       |
+| Rust        | [[https://www.rustup.rs/][rustup]]    | [[https://github.com/rust-lang/cargo/][cargo]] (Rust Build-in) | [[https://crates.io/][crates.io]]                 |
+| Clojure     | [[https://leiningen.org/][Leiningen]] | project.clj           | [[https://clojars.org/][clojars]]                   |
+| Java        | [[http://maven.apache.org/][Maven]]     | [[http://maven.apache.org/][Maven]]                 | [[http://search.maven.org/][Maven Repository]]          |
+| Haskell     | [[http://haskellstack.org][Stack]]     | Stack                 | [[https://hackage.haskell.org/][Hackage]]                   |
+| ConmmonLisp | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]             | [[https://www.quicklisp.org/beta/releases.html][Search libraries]]          |
+| Perl        | Build-in  | [[https://www.cpan.org/][CPAN]]                  | [[https://www.cpan.org/][CPAN]]                      |
+| OCaml       | [[https://opam.ocaml.org/][OPAM]]      | OPAM                  | [[https://opam.ocaml.org/packages/][OPAM Repository]]           |
+| Python      |           | [[https://pypi.python.org/pypi/pip/][pip]]                   | [[https://pypi.python.org/pypi/pip/][PyPI]]                      |
+| Nodejs      |           | [[https://www.npmjs.com/][npm]]                   | [[https://www.npmjs.com/][npm]]                       |
+| Ruby        |           | [[https://rubygems.org/][RubyGems]]              | [[https://rubygems.org/][RubyGems]]                  |
+| Bash        |           | [[https://github.com/bpkg/bpkg][bpkg]]                  | [[http://www.bpkg.sh/][bpkg.sh]]                   |
+| Scala       |           | [[http://www.scala-sbt.org/][sbt]]                   | [[search.maven.org][Maven Repository]]          |
+| SML         |           | [[https://github.com/standardml/smackage][smackage]]              | [[http://sml-family.org/Basis/][Standard ML Basis Library]] |
+
+* OS
+
+* Other
