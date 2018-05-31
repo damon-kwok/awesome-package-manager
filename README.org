@@ -57,9 +57,10 @@ A list of package manager.
 |-----------+-----------+-------------------+-----------------------|
 | [[https://www.android.com/][Android]]   | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][Google Play]]           |
 | [[https://www.cygwin.com/][Cygwin]]    | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/svnpenn/sage][Sage]] / [[https://github.com/transcode-open/apt-cyg][apt-cyg]]    | [[https://cygwin.com/cgi-bin2/package-grep.cgi][Cygwin Package Search]] |
+| [[https://www.gnu.org/software/guix/][GNU Guix]]  | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix              | [[https://www.gnu.org/software/guix/packages/][Packages]]              |
 | [[http://www.msys2.org/][MSYS2]]     | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://github.com/alexpux/msys2-packages][MSYS2-packages]]        |
 | [[https://www.kernel.org/][Linux]]     | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]              |
-| [[https://developer.apple.com/macos/][macOS]]     | None      | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]              |
+| [[https://developer.apple.com/macos/][macOS]]     | [[https://brew.sh/][Install]]   | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]              |
 | [[https://nixos.org/][NixOS]]     | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][Nix Packages]]          |
 | [[http://node-os.com/][NodeOS]]    | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPM Repository]]        |
 | [[http://www.ros.org/][ROS]]       | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS Repository]]        |
