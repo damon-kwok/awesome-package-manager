@@ -29,7 +29,7 @@ A list of package manager.
 | [[https://elixir-lang.org/install.html][Elixir]]            | [[https://elixir-lang.org/install.html][Download]]    | [[https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html][Mix]] (Built-in)    | [[https://hex.pm/][Hex Repository]]       |
 | [[http://elm-lang.org/][Elm]]               | [[https://guide.elm-lang.org/install.html][Download]]    | [[http://elm-lang.org/blog/announce/package-manager][elm-get]]           | [[http://package.elm-lang.org/][Elm Repository]]       |
 | [[http://www.erlang.org/][Erlang]]            | [[http://www.erlang.org/][Download]]    | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]            | [[https://hex.pm/][Hex Repository]]       |
-| [[https://golang.org/][Go]]                | [[https://golang.org/dl/][Download]]    | [[https://melody.sh/docs/howto/install/][Melody]]            | [[https://melody.sh/repo/][melodyRepo]]           |
+| [[https://golang.org/][Go]]                | [[https://github.com/travis-ci/gimme][gimme]]       | [[https://melody.sh/docs/howto/install/][Melody]]            | [[https://melody.sh/repo/][melodyRepo]]           |
 | [[https://www.haskell.org/][Haskell]]           | [[http://haskellstack.org][Stack]]       | [[http://haskellstack.org][Stack]]             | [[https://hackage.haskell.org/][Hackage]]              |
 | [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]    | [[https://lib.haxe.org][haxelib]](Built-in) | [[https://lib.haxe.org/][Haxe Repository]]      |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]] | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)  | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]            |
@@ -49,7 +49,7 @@ A list of package manager.
 | [[https://www.rust-lang.org/][Rust]]              | [[https://www.rustup.rs/][rustup]]      | [[https://github.com/rust-lang/cargo/][cargo]] (Built-in)  | [[https://crates.io/][crates.io]]            |
 | [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]    | [[http://www.scala-sbt.org/][sbt]]               | [[http://search.maven.org/][Maven Repository]]     |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]       | [[https://github.com/standardml/smackage][smackage]]          | [[http://sml-family.org/Basis/][SML Basis Library]]    |
-| [[https://nodejs.org/][Nodejs]]            | [[https://nodejs.org/][Download]]    | [[https://www.npmjs.com/][npm]]               | [[https://www.npmjs.com/][NPM Repository]]       |
+| [[https://nodejs.org/][Nodejs]]            | [[https://github.com/creationix/nvm][nvm]]         | [[https://www.npmjs.com/][npm]]               | [[https://www.npmjs.com/][NPM Repository]]       |
 | [[http://www.zsh.org/][zsh]]               | [[https://github.com/unixorn/awesome-zsh-plugins#installation][Install]]     | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]              |
 
 ** OS
