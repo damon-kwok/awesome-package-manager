@@ -15,7 +15,7 @@ A list of package manager.
 
 | Name              | Installer   | Build Tool        | Repository           |
 |-------------------+-------------+-------------------+----------------------|
-| *[[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]*            | [[https://github.com/Bash-it/bash-it][Bash-it]]     | [[https://github.com/bpkg/bpkg][bpkg]]              | [[http://www.bpkg.sh/][bpkg.sh]]              |
+| [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in    | [[https://github.com/bpkg/bpkg][bpkg]]              | [[http://www.bpkg.sh/][bpkg.sh]]              |
 | [[http://www.open-std.org/JTC1/SC22/WG14/][C]]                 | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]   | [[https://github.com/clibs/clib/wiki/Packages][clib]]              | [[https://github.com/clibs/clib/wiki/Packages][Packages]]             |
 | [[http://www.cplusplus.com/][C++]]               | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]   | [[https://conan.io/][Conan]]             | [[https://bintray.com/conan][Official]] / [[https://bintray.com/bincrafters/public-conan][Community]] |
 | [[https://www.visualstudio.com/][C++ (MSVC)]]        | [[https://www.visualstudio.com/downloads/][Download]]    | [[https://github.com/Microsoft/vcpkg][Vcpkg]]             | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][List of libraries]]    |
@@ -51,7 +51,7 @@ A list of package manager.
 | *[[https://www.rust-lang.org/][Rust]]*            | [[https://www.rustup.rs/][rustup]]      | [[https://github.com/rust-lang/cargo/][cargo]] (Built-in)  | [[https://crates.io/][crates.io]]            |
 | [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]    | [[http://www.scala-sbt.org/][sbt]]               | [[http://search.maven.org/][Maven Repository]]     |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]       | [[https://github.com/standardml/smackage][smackage]]          | [[http://sml-family.org/Basis/][SML Basis Library]]    |
-| *[[http://www.zsh.org/][zsh]]*             | [[https://github.com/robbyrussell/oh-my-zsh][oh-my-zsh]]   | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]              |
+
 
 ** OS
 | Name      | Installer | PackageManager    | Repository            |
@@ -83,13 +83,15 @@ A list of package manager.
 | [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]       |
 
 ** Other
-| Name        | Installer | PackageManager    | Repository   |
-|-------------+-----------+-------------------+--------------|
-| [[https://www.docker.com][Docker]]      | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][Docker Hub]]   |
-| IoT         | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]    |
-| [[https://nanobox.io/][Nanobox]]     | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None         |
-| [[https://puppet.com/][Puppet]]      | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]]  |
-| [[https://www.qt.io/][QT]]          | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]     |
-| [[https://coreos.com/rkt/][Rocket(rkt)]] | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]   |
-| [[https://unity3d.com/][Unity3D]]     | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]]  |
-| [[https://wordpress.org/][WordPress]]   | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]      |
+| Name        | Installer | PackageManager    | Repository  |
+|-------------+-----------+-------------------+-------------|
+| *[[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash-it]]*   | [[https://github.com/Bash-it/bash-it][Install]]   | bash-it           | [[https://github.com/Bash-it/bash-it/wiki/Themes][Themes]]      |
+| *[[http://www.zsh.org/][Oh-my-zsh]]* | [[https://github.com/robbyrussell/oh-my-zsh][Install]]   | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]     |
+| *[[https://www.docker.com][Docker]]*    | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][Docker Hub]]  |
+| IoT         | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]   |
+| [[https://nanobox.io/][Nanobox]]     | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None        |
+| [[https://puppet.com/][Puppet]]      | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]] |
+| [[https://www.qt.io/][QT]]          | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]    |
+| [[https://coreos.com/rkt/][Rocket(rkt)]] | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]  |
+| [[https://unity3d.com/][Unity3D]]     | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]] |
+| [[https://wordpress.org/][WordPress]]   | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]     |
