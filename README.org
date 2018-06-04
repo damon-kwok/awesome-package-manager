@@ -38,7 +38,7 @@ A list of package manager.
 | [[https://www.javascript.com/][JavaScript]]        | WebBrowser  | [[http://www.jamjs.org/][Jam]]               | [[http://www.jamjs.org/packages/][Jam Packages]]         |
 | [[https://julialang.org/][Julia]]             | [[https://julialang.org/downloads/][Download]]    | [[https://pkg.julialang.org/][Pkg]] (Built-in)    | [[https://pkg.julialang.org/][Julia Repository]]     |
 | [[https://www.latex-project.org/][LaTeX]]             | [[http://www.tug.org/texlive/][TeX Live]]    | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]]             | [[https://www.ctan.org/][CTAN]]                 |
-| [[https://nim-lang.org/docs/lib.html][Nim]]               | [[https://nim-lang.org/install.html][Download]]    | [[https://github.com/nim-lang/nimble][Nimble]]            | [[https://nim-lang.org/docs/lib.html][Nim Repository]]       |
+| *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]   | [[https://github.com/nim-lang/nimble][Nimble]]            | [[https://nim-lang.org/docs/lib.html][Nim Repository]]       |
 | *[[https://nodejs.org/][Nodejs]]*          | [[https://github.com/creationix/nvm][nvm]]         | [[https://www.npmjs.com/][npm]]               | [[https://www.npmjs.com/][NPM Repository]]       |
 | [[https://ocaml.org/][OCaml]]             | [[https://opam.ocaml.org/][OPAM]]        | [[https://opam.ocaml.org/packages/][OPAM]]              | [[https://opam.ocaml.org/packages/][OPAM Repository]]      |
 | [[https://www.perl.org/][Perl]]              | Built-in    | [[https://www.cpan.org/][CPAN]]              | [[https://www.cpan.org/][CPAN Repository]]      |
