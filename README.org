@@ -20,6 +20,7 @@ A list of package manager.
 | [[http://www.cplusplus.com/][C++]]               | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]   | [[https://conan.io/][Conan]]             | [[https://bintray.com/conan][Official]] / [[https://bintray.com/bincrafters/public-conan][Community]] |
 | [[https://www.visualstudio.com/][C++ (MSVC)]]        | [[https://www.visualstudio.com/downloads/][Download]]    | [[https://github.com/Microsoft/vcpkg][Vcpkg]]             | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][List of libraries]]    |
 | [[https://cmake.org/][CMake]]             | [[https://cmake.org/download][Download]]    | [[https://github.com/iauns/cpm][CPM]]               | [[http://www.cpm.rocks/][CPM Repository]]       |
+| [[https://docs.hunter.sh/en/latest/quick-start.html][Cmake-Hunter]]      | [[https://docs.hunter.sh/en/latest/quick-start/boost-components.html][Manual]]      | [[https://github.com/ruslo/hunter][Hunter]]            | [[https://docs.hunter.sh/en/latest/packages.html][Hunter Packages]]      |
 | *[[https://clojure.org/][Clojure]]*         | [[https://leiningen.org/][Leiningen]]   | [[https://leiningen.org/][Leiningen]]         | [[https://clojars.org/][clojars]]              |
 | [[https://common-lisp.net/][ConmmonLisp]]       | [[https://github.com/roswell/roswell][Roswell]]     | [[https://www.quicklisp.org/][Quicklisp]]         | [[https://www.quicklisp.org/beta/releases.html][Quicklisp Repository]] |
 | [[https://cocoapods.org/][Cocoa]]([[https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html][Objc]]/[[https://swift.org/][Swift]]) | [[https://swift.org/download/][*nix]] / [[https://swiftforwindows.github.io/][win]]  | [[https://cocoapods.org/][CocoaPods]]         | [[https://cocoapods.org/][CocoaPods Repository]] |
@@ -51,6 +52,7 @@ A list of package manager.
 | *[[https://www.rust-lang.org/][Rust]]*            | [[https://www.rustup.rs/][rustup]]      | [[https://github.com/rust-lang/cargo/][cargo]] (Built-in)  | [[https://crates.io/][crates.io]]            |
 | [[http://www.scala-lang.org/][Scala]]             | [[http://www.scala-lang.org/][Download]]    | [[http://www.scala-sbt.org/][sbt]]               | [[http://search.maven.org/][Maven Repository]]     |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]       | [[https://github.com/standardml/smackage][smackage]]          | [[http://sml-family.org/Basis/][SML Basis Library]]    |
+
 
 
 ** OS
