@@ -27,7 +27,7 @@ A list of package manager.
 | [[https://crystal-lang.org/][Crystal]]           | [[https://crystal-lang.org/docs/installation/][Download]]         | [[https://github.com/crystal-lang/shards][Shards]]            | [[https://crystalshards.herokuapp.com/][Crystalshards]]      |
 | [[https://dlang.org/][D]]                 | [[https://dlang.org/download.html][Download]]         | [[http://code.dlang.org/][DUB]] (Built-in)    | [[http://code.dlang.org/][DUB Packages]]       |
 | *[[https://www.dartlang.org/tools/pub][Dark]]*            | [[https://www.dartlang.org/install][Download]]         | [[https://www.dartlang.org/tools/pub][Pub]]               | [[https://pub.dartlang.org/][Dark Packages]]      |
-| [[https://dotnet.github.io/][dotnet(.Net)]]      | [[https://www.microsoft.com/net/download/linux][Download]]         | [[https://www.nuget.org/][NuGet]]             | [[https://www.nuget.org/][NuGet Packages]]     |
+| [[https://dotnet.github.io/][dotnet(.Net)]]      | [[https://www.microsoft.com/net/download/linux][Download]]         | [[https://www.nuget.org/][NuGet]]/[[https://github.com/OneGet/oneget][OneGet]]      | [[https://www.nuget.org/][NuGet Packages]]     |
 | *[[https://elixir-lang.org/install.html][Elixir]]*          | [[https://elixir-lang.org/install.html][Download]]         | [[https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html][Mix]] (Built-in)    | [[https://hex.pm/][Hex Repository]]     |
 | [[http://elm-lang.org/][Elm]]               | [[https://guide.elm-lang.org/install.html][Download]]         | [[http://elm-lang.org/blog/announce/package-manager][elm-get]]           | [[http://package.elm-lang.org/][Elm Repository]]     |
 | *[[http://www.erlang.org/][Erlang]]*          | [[http://www.erlang.org/][Download]]         | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]            | [[https://hex.pm/][Hex Repository]]     |
@@ -62,6 +62,7 @@ A list of package manager.
 | Name            | Installer | PackageManager    | Repository            |
 |-----------------+-----------+-------------------+-----------------------|
 | [[https://www.android.com/][Android]]         | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][Google Play]]           |
+| Cluster         | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][Package Repo]]          |
 | [[https://www.cygwin.com/][Cygwin]]          | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][Cygwin Package Search]] |
 | [[https://www.gnu.org/software/guix/][GNU Guix]]        | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]              |
 | [[http://www.msys2.org/][MSYS2]]           | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://github.com/alexpux/msys2-packages][MSYS2-packages]]        |
