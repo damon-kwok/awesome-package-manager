@@ -53,10 +53,10 @@ A list of package manager.
 | *[[https://www.ruby-lang.org/][Ruby]]*            | [[https://github.com/rbenv/rbenv][rbenv]]&[[https://github.com/rbenv/ruby-build][ruby-build]] | [[https://rubygems.org/][Rubygems]]          | [[https://rubygems.org/][Rubygems Repo]]      |
 | *[[https://www.rust-lang.org/][Rust]]*            | [[https://www.rustup.rs/][rustup]]           | [[https://github.com/rust-lang/cargo/][cargo]] (Built-in)  | [[https://crates.io/][crates.io]]          |
 | *[[http://www.scala-lang.org/][Scala]]*           | [[https://sdkman.io/sdks#scala][SDKMAN]]           | [[http://www.scala-sbt.org/][sbt]]               | [[http://search.maven.org/][Maven Repository]]   |
+| [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]              | [[https://swift.org/getting-started/#using-the-package-manager][swift]]             | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]          |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]            | [[https://github.com/standardml/smackage][smackage]]          | [[http://sml-family.org/Basis/][SML Basis Library]]  |
 | Web ([[https://parceljs.org/getting_started.html][Parcel]])      | [[https://parceljs.org/getting_started.html][yarn/npm]]         | [[https://parceljs.org/getting_started.html][parcel]]            | None               |
 | Web ([[https://webpack.js.org/guides/installation/][webpack]])     | [[https://webpack.js.org/guides/installation/][npm]]              | [[https://webpack.js.org/guides/installation/][webpack]]           | None               |
-| [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]              | [[https://swift.org/getting-started/#using-the-package-manager][swift]]             | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]          |
 
 ** OS
 | Name            | Installer | PackageManager    | Repository            |
