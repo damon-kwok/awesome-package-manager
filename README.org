@@ -37,7 +37,7 @@ A list of package manager.
 | [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]         | [[https://lib.haxe.org][haxelib]](Built-in) | [[https://lib.haxe.org/][Haxe Repository]]    |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]]      | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)  | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]          |
 | *[[https://www.java.com/][Java]]*            | [[https://sdkman.io/sdks#java][SDKMAN]]           | [[https://gradle.org/][Gradle]]            | [[http://search.maven.org/][Maven Repository]]   |
-| [[https://www.javascript.com/][JavaScript]]        | WebBrowser       | [[http://www.jamjs.org/][Jam]]               | [[http://www.jamjs.org/packages/][Jam Packages]]       |
+| [[https://www.javascript.com/][JavaScript]]        | browser          | [[http://www.jamjs.org/][Jam]]               | [[http://www.jamjs.org/packages/][Jam Packages]]       |
 | [[https://julialang.org/][Julia]]             | [[https://julialang.org/downloads/][Download]]         | [[https://pkg.julialang.org/][Pkg]] (Built-in)    | [[https://pkg.julialang.org/][Julia Repository]]   |
 | [[https://www.latex-project.org/][LaTeX]]             | [[http://www.tug.org/texlive/][TeX Live]]         | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]]             | [[https://www.ctan.org/][CTAN]]               |
 | *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]        | [[https://github.com/nim-lang/nimble][Nimble]]            | [[https://nim-lang.org/docs/lib.html][Nim Repository]]     |
@@ -56,7 +56,7 @@ A list of package manager.
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]            | [[https://github.com/standardml/smackage][smackage]]          | [[http://sml-family.org/Basis/][SML Basis Library]]  |
 | Web ([[https://parceljs.org/getting_started.html][Parcel]])      | [[https://parceljs.org/getting_started.html][yarn/npm]]         | [[https://parceljs.org/getting_started.html][parcel]]            | None               |
 | Web ([[https://webpack.js.org/guides/installation/][webpack]])     | [[https://webpack.js.org/guides/installation/][npm]]              | [[https://webpack.js.org/guides/installation/][webpack]]           | None               |
-
+| [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]              | [[https://swift.org/getting-started/#using-the-package-manager][swift]]             | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]          |
 
 ** OS
 | Name            | Installer | PackageManager    | Repository            |
