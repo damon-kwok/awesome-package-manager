@@ -45,7 +45,7 @@ A list of package manager.
 | *[[https://nodejs.org/][Nodejs]]* (yarn)   | [[https://github.com/creationix/nvm][nvm]]              | [[https://yarnpkg.com/en/docs/install#debian-stable][yarn]]               | [[https://yarnpkg.com/en/packages][Yarn Repository]]    |
 | [[https://ocaml.org/][OCaml]]             | [[https://opam.ocaml.org/][OPAM]]             | [[https://opam.ocaml.org/packages/][OPAM]]               | [[https://opam.ocaml.org/packages/][OPAM Repository]]    |
 | [[https://www.perl.org/][Perl]]              | Built-in         | [[https://www.cpan.org/][CPAN]]               | [[https://www.cpan.org/][CPAN Repository]]    |
-| [[http://php.net/][PHP]]               | [[http://php.net/downloads.php][Download]]         | [[https://getcomposer.org][Composer]]           | [[https://packagist.org/][Packagist]]          |
+| [[http://php.net/][PHP]]               | [[http://php.net/downloads.php][Download]]         | [[https://getcomposer.org][Composer]]/[[http://eirt.science/xpm/][XPM]]       | [[https://packagist.org/][Packagist]]          |
 | [[http://www.purescript.org/][PureScript]]        | [[https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md][NPM]]              | [[https://github.com/purescript/psc-package][psc-package]]        | [[https://github.com/purescript/package-sets/blob/master/packages.json][packages.json]]      |
 | *[[https://www.python.org/][Python]]*          | [[https://github.com/pyenv/pyenv][pyenv]]            | [[https://pypi.python.org/pypi/pip/][pip]]                | [[https://pypi.python.org/pypi/pip/][PyPI]]               |
 | [[https://cran.r-project.org/][R]]                 | [[https://cran.r-project.org/][Download]]         | [[https://www.r-pkg.org][CRAN]] (Built-in)    | [[https://www.r-pkg.org/][METACRAN]]           |
@@ -79,17 +79,17 @@ A list of package manager.
 | Universal       | None      | [[https://github.com/epitron/upm][upm]]               | None                  |
 
 ** Editor
-| Name          | Installer | PackageManager      | Repository              |
-|---------------+-----------+---------------------+-------------------------|
-| [[https://atom.io/][Atom]]          | [[https://atom.io/][Download]]  | Built-in / [[https://atmospherejs.com/][Meteor]]   | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]           |
-| [[https://eclipse.org/][Eclipse]]       | [[https://www.eclipse.org/downloads/][Download]]  | Built-in            | [[https://marketplace.eclipse.org/][Marketplace]]             |
-| [[https://www.gnu.org/software/emacs/][Emacs]]         | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in / [[https://github.com/cask/cask][Cask]]     | [[https://melpa.org/#/][MELPA]]                   |
-| [[https://www.jetbrains.com/][JetBrains-IDE]] | [[https://www.jetbrains.com/][Download]]  | Built-in            | [[https://plugins.jetbrains.com/][Plugins Repository]]      |
-| [[https://www.sublimetext.com/][Sublime]]       | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]      | [[https://packagecontrol.io/][PackageControl Packages]] |
-| [[https://code.visualstudio.com/][VSCode]]        | [[https://code.visualstudio.com/Download][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]             |
-| [[https://www.visualstudio.com/downloads/][VisualStudio]]  | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in            | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]             |
-| [[http://www.vim.org/][Vim]]           | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]] | [[https://vim.sourceforge.io/search.php][Search for Vim Script]]   |
-| [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]            | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]       |
+| Name          | Installer | PackageManager         | Repository              |
+|---------------+-----------+------------------------+-------------------------|
+| [[https://atom.io/][Atom]]          | [[https://atom.io/][Download]]  | [[https://github.com/atom/apm][apm]](Built-in)/[[https://atmospherejs.com/][Meteor]]   | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]           |
+| [[https://eclipse.org/][Eclipse]]       | [[https://www.eclipse.org/downloads/][Download]]  | Built-in               | [[https://marketplace.eclipse.org/][Marketplace]]             |
+| [[https://www.gnu.org/software/emacs/][Emacs]]         | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in / [[https://github.com/cask/cask][Cask]]        | [[https://melpa.org/#/][MELPA]]                   |
+| [[https://www.jetbrains.com/][JetBrains-IDE]] | [[https://www.jetbrains.com/][Download]]  | Built-in               | [[https://plugins.jetbrains.com/][Plugins Repository]]      |
+| [[https://www.sublimetext.com/][Sublime]]       | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]         | [[https://packagecontrol.io/][PackageControl Packages]] |
+| [[https://code.visualstudio.com/][VSCode]]        | [[https://code.visualstudio.com/Download][Download]]  | Built-in               | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]             |
+| [[https://www.visualstudio.com/downloads/][VisualStudio]]  | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in               | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]             |
+| [[http://www.vim.org/][Vim]]           | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]]    | [[https://vim.sourceforge.io/search.php][Search for Vim Script]]   |
+| [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]               | [[https://github.com/alcatraz/alcatraz-packages][Alcatraz Packages]]       |
 
 ** Other
 | Name        | Installer | PackageManager    | Repository  |
