@@ -40,6 +40,7 @@ A list of package manager.
 | [[https://www.javascript.com/][JavaScript]]        | browser        | [[http://www.jamjs.org/][Jam]]                | [[http://www.jamjs.org/packages/][Jam Packages]]       |
 | [[https://julialang.org/][Julia]]             | [[https://julialang.org/downloads/][Download]]       | [[https://pkg.julialang.org/][Pkg]] (Built-in)     | [[https://pkg.julialang.org/][JuliaRepository]]    |
 | [[https://www.latex-project.org/][LaTeX]]             | [[http://www.tug.org/texlive/][TeX Live]]       | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]]              | [[https://www.ctan.org/][CTAN]]               |
+| [[https://www.lua.org/][Lua]]               | [[https://github.com/mah0x211/lenv][lenv]]           | [[https://github.com/luarocks/luarocks][LuaRocks]]           | [[https://luarocks.org/][luarocks.org]]       |
 | *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]      | [[https://github.com/nim-lang/nimble][Nimble]]             | [[https://nim-lang.org/docs/lib.html][NimRepository]]      |
 | *[[https://nodejs.org/][Nodejs]]* (npm)    | [[https://github.com/creationix/nvm][nvm]]            | [[https://www.npmjs.com/][npm]]                | [[https://www.npmjs.com/][NPMRepository]]      |
 | *[[https://nodejs.org/][Nodejs]]* (yarn)   | [[https://github.com/creationix/nvm][nvm]]            | [[https://yarnpkg.com/en/docs/install#debian-stable][yarn]]               | [[https://yarnpkg.com/en/packages][YarnRepository]]     |
@@ -57,7 +58,6 @@ A list of package manager.
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]          | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]  |
 | Web ([[https://parceljs.org/getting_started.html][Parcel]])      | [[https://parceljs.org/getting_started.html][yarn/npm]]       | [[https://parceljs.org/getting_started.html][parcel]]             | None               |
 | Web ([[https://webpack.js.org/guides/installation/][webpack]])     | [[https://webpack.js.org/guides/installation/][npm]]            | [[https://webpack.js.org/guides/installation/][webpack]]            | None               |
-| [[https://www.lua.org/][Lua]]               | [[https://github.com/mah0x211/lenv][lenv]]           | [[https://github.com/luarocks/luarocks][LuaRocks]]           | [[https://luarocks.org/][luarocks.org]]       |
 
 ** OS
 | Name            | Installer | PackageManager    | Repository            |
@@ -102,6 +102,7 @@ A list of package manager.
 | [[https://nanobox.io/][Nanobox]]     | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None        |
 | [[https://puppet.com/][Puppet]]      | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]] |
 | [[https://www.qt.io/][QT]]          | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]    |
+| [[http://reaper.fm/index.php][REAPER]]      | [[http://reaper.fm/download.php][Download]]  | [[https://reapack.com/][Reapack]]           | [[https://reapack.com/repos][Repos]]       |
 | [[https://coreos.com/rkt/][Rocket(rkt)]] | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]  |
 | [[https://unity3d.com/][Unity3D]]     | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]] |
 | [[https://wordpress.org/][WordPress]]   | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]     |
