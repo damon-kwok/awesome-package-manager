@@ -36,7 +36,7 @@ A list of package manager.
 | *[[https://www.haskell.org/][Haskell]]*         | [[http://haskellstack.org][Stack]]          | [[http://haskellstack.org][Stack]]                | [[https://hackage.haskell.org/][Hackage]]            |
 | [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]       | [[https://lib.haxe.org][haxelib]](Built-in)    | [[https://lib.haxe.org/][HaxeRepository]]     |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]]    | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)     | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]          |
-| *[[https://www.java.com/][Java]]*            | [[https://sdkman.io/sdks#java][SDKMAN]]         | [[https://gradle.org/][Gradle]]               | [[http://search.maven.org/][MavenRepository]]    |
+| *[[https://www.java.com/][Java]]*            | [[https://sdkman.io/sdks#java][SDKMAN]]         | [[http://maven.apache.org/download.cgi][Maven]]/[[https://gradle.org/][Gradle]]         | [[http://search.maven.org/][MavenRepository]]    |
 | [[https://www.javascript.com/][JavaScript]]        | browser        | [[http://www.jamjs.org/][Jam]]                  | [[http://www.jamjs.org/packages/][Jam Packages]]       |
 | [[https://julialang.org/][Julia]]             | [[https://julialang.org/downloads/][Download]]       | [[https://pkg.julialang.org/][Pkg]] (Built-in)       | [[https://pkg.julialang.org/][JuliaRepository]]    |
 | [[https://www.latex-project.org/][LaTeX]]             | [[http://www.tug.org/texlive/][TeX Live]]       | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]]                | [[https://www.ctan.org/][CTAN]]               |
