@@ -104,5 +104,5 @@ A list of package manager.
 | [[https://www.qt.io/][QT]]          | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]    |
 | [[http://reaper.fm/index.php][REAPER]]      | [[http://reaper.fm/download.php][Download]]  | [[https://github.com/cfillion/reapack][Reapack]]           | [[https://reapack.com/repos][Repos]]       |
 | [[https://coreos.com/rkt/][Rocket(rkt)]] | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]  |
-| [[https://unity3d.com/][Unity3D]]     | [[https://unity3d.com/][Download]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]] |
+| [[https://unity3d.com/][Unity3D]]     | [[https://forum.unity.com/threads/unity-hub-release-candidate-0-20-1-is-now-available.546315/][UnityHub]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]] |
 | [[https://wordpress.org/][WordPress]]   | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]     |
