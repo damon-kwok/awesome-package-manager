@@ -12,7 +12,6 @@ A list of package manager.
 [[https://imgs.xkcd.com/comics/packages.png]]
 
 ** Programming Languages
-
 | Language          | VersionManager | PackageManager     | Repository         |
 |-------------------+----------------+--------------------+--------------------|
 | [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in       | [[https://github.com/bpkg/bpkg][bpkg]]/[[https://github.com/bpm-rocks/bpm][bpm]]/[[https://github.com/basherpm/basher][basher]]    | [[http://www.bpkg.sh/][bpkg.sh]]            |
@@ -31,7 +30,7 @@ A list of package manager.
 | *[[https://elixir-lang.org/install.html][Elixir]]*          | [[https://elixir-lang.org/install.html][Download]]       | [[https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html][Mix]] (Built-in)     | [[https://hex.pm/][HexRepository]]      |
 | [[http://elm-lang.org/][Elm]]               | [[https://guide.elm-lang.org/install.html][Download]]       | [[http://elm-lang.org/blog/announce/package-manager][elm-get]]            | [[http://package.elm-lang.org/][ElmRepository]]      |
 | *[[http://www.erlang.org/][Erlang]]*          | [[https://github.com/kerl/kerl][kerl]]           | [[https://s3.amazonaws.com/rebar3/rebar3][rebar3]]             | [[https://hex.pm/][HexRepository]]      |
-| *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]      | git                |
+| *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/kardianos/govendor][govendor]]   | git                |
 | *[[http://www.groovy-lang.org/][Groovy]]*          | [[https://sdkman.io/sdks#groovy][SDKMAN]]         | [[https://docs.gradle.org/current/userguide/groovy_plugin.html][Gradle]](Plugin)     | [[http://search.maven.org/][MavenRepository]]    |
 | *[[https://www.haskell.org/][Haskell]]*         | [[http://haskellstack.org][Stack]]          | [[http://haskellstack.org][Stack]]              | [[https://hackage.haskell.org/][Hackage]]            |
 | [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]       | [[https://lib.haxe.org][haxelib]](Built-in)  | [[https://lib.haxe.org/][HaxeRepository]]     |
