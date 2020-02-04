@@ -63,6 +63,7 @@ A list of package manager.
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]          | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]  |
 | Web ([[https://parceljs.org/getting_started.html][Parcel]])      | [[https://parceljs.org/getting_started.html][yarn/npm]]       | [[https://parceljs.org/getting_started.html][parcel]]             | None               |
 | Web ([[https://webpack.js.org/guides/installation/][webpack]])     | [[https://webpack.js.org/guides/installation/][npm]]            | [[https://webpack.js.org/guides/installation/][webpack]]            | None               |
+| [[https://ziglang.org/][Zig]]               | [[https://github.com/ziglang/zig/issues/943][building]]       | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
 ** OS
 | Name            | Installer | PackageManager    | Repository            |
