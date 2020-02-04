@@ -16,8 +16,8 @@ A list of package manager.
 |-------------------+----------------+--------------------+--------------------|
 | [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in       | [[https://github.com/bpkg/bpkg][bpkg]]/[[https://github.com/bpm-rocks/bpm][bpm]]/[[https://github.com/basherpm/basher][basher]]    | [[http://www.bpkg.sh/][bpkg.sh]]            |
 | [[http://www.open-std.org/JTC1/SC22/WG14/][C]]                 | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]      | [[https://github.com/clibs/clib/wiki/Packages][clib]]               | [[https://github.com/clibs/clib/wiki/Packages][Packages]]           |
-| [[http://www.cplusplus.com/][C++]]               | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]      | [[https://conan.io/][Conan]]              | [[https://bintray.com/conan][Official]]/[[https://bintray.com/bincrafters/public-conan][Community]] |
-| [[https://www.visualstudio.com/][C++ (MSVC)]]        | [[https://www.visualstudio.com/downloads/][Download]]       | [[https://github.com/Microsoft/vcpkg][Vcpkg]]              | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][List-of-libraries]]  |
+| [[http://www.cplusplus.com/][C++(Conan)]]        | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]      | [[https://conan.io/][Conan]]              | [[https://bintray.com/conan][Official]]/[[https://bintray.com/bincrafters/public-conan][Community]] |
+| *[[https://www.visualstudio.com/][C++(Vcpkg)]]*      | [[https://www.visualstudio.com/downloads/][Download]]       | [[https://github.com/Microsoft/vcpkg][Vcpkg]]              | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][List-of-libraries]]  |
 | [[https://cmake.org/][CMake]]             | [[https://cmake.org/download][Download]]       | [[https://github.com/iauns/cpm][CPM]]                | [[http://www.cpm.rocks/][CPMRepository]]      |
 | *[[https://docs.hunter.sh/en/latest/quick-start.html][CMake (Hunter)]]*  | [[https://docs.hunter.sh/en/latest/quick-start/boost-components.html][Manual]]         | [[https://github.com/ruslo/hunter][Hunter]]             | [[https://docs.hunter.sh/en/latest/packages.html][HunterPackages]]     |
 | *[[https://clojure.org/][Clojure]]*         | [[https://sdkman.io/sdks#leiningen][SDKMAN]]         | [[https://leiningen.org/][Leiningen]]          | [[https://clojars.org/][clojars]]            |
@@ -44,8 +44,7 @@ A list of package manager.
 | [[https://www.latex-project.org/][LaTeX]]             | [[http://www.tug.org/texlive/][TeX Live]]       | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]]              | [[https://www.ctan.org/][CTAN]]               |
 | [[https://www.lua.org/][Lua]]               | [[https://github.com/mah0x211/lenv][lenv]]           | [[https://github.com/luarocks/luarocks][LuaRocks]]           | [[https://luarocks.org/][luarocks.org]]       |
 | *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]      | [[https://github.com/nim-lang/nimble][Nimble]]             | [[https://nim-lang.org/docs/lib.html][NimRepository]]      |
-| *[[https://nodejs.org/][Nodejs]]* (npm)    | [[https://github.com/tj/n][n]]/[[https://github.com/creationix/nvm][nvm]]          | [[https://www.npmjs.com/][npm]]                | [[https://www.npmjs.com/][NPMRepository]]      |
-| *[[https://nodejs.org/][Nodejs]]* (yarn)   | [[https://github.com/tj/n][n]]/[[https://github.com/creationix/nvm][nvm]]          | [[https://yarnpkg.com/en/docs/install#debian-stable][yarn]]               | [[https://yarnpkg.com/en/packages][YarnRepository]]     |
+| *[[https://nodejs.org/][Nodejs]]*          | [[https://github.com/tj/n][n]]/[[https://github.com/creationix/nvm][nvm]]          | [[https://www.npmjs.com/][npm]]/[[https://classic.yarnpkg.com/en/docs/install][yarn]]           | [[https://www.npmjs.com/][NPMRepo]]/[[https://yarnpkg.com/en/packages][YarnRepo]]   |
 | [[https://ocaml.org/][OCaml]]             | [[https://opam.ocaml.org/][OPAM]]           | [[https://opam.ocaml.org/packages/][OPAM]]               | [[https://opam.ocaml.org/packages/][OPAMRepository]]     |
 | [[https://www.perl.org/][Perl]]              | Built-in       | [[https://www.cpan.org/][CPAN]]               | [[https://www.cpan.org/][CPAN]] [[https://metacpan.org//][meta::cpan]]    |
 | [[https://www.ponylang.io/][Pony]]              | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]] | [[https://github.com/ponylang/corral][Corral]]             | git                |
@@ -61,8 +60,6 @@ A list of package manager.
 | [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]            | [[https://swift.org/getting-started/#using-the-package-manager][swift]]              | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]          |
 | [[https://github.com/microsoft/verona][Verona]]            | [[https://github.com/microsoft/verona/blob/master/docs/building.md][building]]       | /                  | /                  |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]          | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]  |
-| Web ([[https://parceljs.org/getting_started.html][Parcel]])      | [[https://parceljs.org/getting_started.html][yarn/npm]]       | [[https://parceljs.org/getting_started.html][parcel]]             | None               |
-| Web ([[https://webpack.js.org/guides/installation/][webpack]])     | [[https://webpack.js.org/guides/installation/][npm]]            | [[https://webpack.js.org/guides/installation/][webpack]]            | None               |
 | [[https://ziglang.org/][Zig]]               | [[https://github.com/ziglang/zig/issues/943][building]]       | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
 ** OS
@@ -99,16 +96,18 @@ A list of package manager.
 | [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]             | [[https://github.com/alcatraz/alcatraz-packages][AlcatrazPackages]]       |
 
 ** Other
-| Name        | Installer | PackageManager    | Repository  |
-|-------------+-----------+-------------------+-------------|
-| *[[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash-it]]*   | [[https://github.com/Bash-it/bash-it][Install]]   | bash-it           | [[https://github.com/Bash-it/bash-it/wiki/Themes][Themes]]      |
-| *[[http://www.zsh.org/][Oh-my-zsh]]* | [[https://github.com/robbyrussell/oh-my-zsh][Install]]   | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]     |
-| *[[https://www.docker.com][Docker]]*    | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][Docker Hub]]  |
-| IoT         | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]   |
-| [[https://nanobox.io/][Nanobox]]     | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None        |
-| [[https://puppet.com/][Puppet]]      | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]] |
-| [[https://www.qt.io/][QT]]          | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]    |
-| [[http://reaper.fm/index.php][REAPER]]      | [[http://reaper.fm/download.php][Download]]  | [[https://github.com/cfillion/reapack][Reapack]]           | [[https://reapack.com/repos][Repos]]       |
-| [[https://coreos.com/rkt/][Rocket(rkt)]] | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]  |
-| [[https://unity3d.com/][Unity3D]]     | [[https://forum.unity.com/threads/unity-hub-release-candidate-0-20-1-is-now-available.546315/][UnityHub]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]] |
-| [[https://wordpress.org/][WordPress]]   | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]     |
+| Name          | Installer | PackageManager    | Repository  |
+|---------------+-----------+-------------------+-------------|
+| *[[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash-it]]*     | [[https://github.com/Bash-it/bash-it][Install]]   | bash-it           | [[https://github.com/Bash-it/bash-it/wiki/Themes][Themes]]      |
+| *[[http://www.zsh.org/][Oh-my-zsh]]*   | [[https://github.com/robbyrussell/oh-my-zsh][Install]]   | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]     |
+| *[[https://www.docker.com][Docker]]*      | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][Docker Hub]]  |
+| IoT           | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]   |
+| [[https://nanobox.io/][Nanobox]]       | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None        |
+| [[https://puppet.com/][Puppet]]        | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]] |
+| [[https://www.qt.io/][QT]]            | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]    |
+| [[http://reaper.fm/index.php][REAPER]]        | [[http://reaper.fm/download.php][Download]]  | [[https://github.com/cfillion/reapack][Reapack]]           | [[https://reapack.com/repos][Repos]]       |
+| [[https://coreos.com/rkt/][Rocket(rkt)]]   | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]  |
+| [[https://unity3d.com/][Unity3D]]       | [[https://forum.unity.com/threads/unity-hub-release-candidate-0-20-1-is-now-available.546315/][UnityHub]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]] |
+| [[https://wordpress.org/][WordPress]]     | [[https://wordpress.org/download/][Download]]  | Built-in          | [[https://libraries.io/wordpress][Plugins]]     |
+| Web ([[https://parceljs.org/getting_started.html][Parcel]])  | [[https://parceljs.org/getting_started.html][yarn/npm]]  | [[https://parceljs.org/getting_started.html][parcel]]            | None        |
+| Web ([[https://webpack.js.org/guides/installation/][webpack]]) | [[https://webpack.js.org/guides/installation/][npm]]       | [[https://webpack.js.org/guides/installation/][webpack]]           | None        |
