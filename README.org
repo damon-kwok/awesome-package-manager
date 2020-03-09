@@ -12,7 +12,7 @@ A list of package manager.
 [[https://imgs.xkcd.com/comics/packages.png]]
 
 ** Programming Languages
-| Language          | Installer      | PackageManager     | PackageView        |
+| Language          | Installer      | PackageManager     | PackageViewer      |
 |-------------------+----------------+--------------------+--------------------|
 | [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in       | [[https://github.com/bpkg/bpkg][bpkg]]/[[https://github.com/bpm-rocks/bpm][bpm]]/[[https://github.com/basherpm/basher][basher]]    | [[http://www.bpkg.sh/][bpkg.sh]]            |
 | [[http://www.open-std.org/JTC1/SC22/WG14/][C]]                 | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]      | [[https://github.com/clibs/clib/wiki/Packages][clib]]               | [[https://github.com/clibs/clib/wiki/Packages][Packages]]           |
@@ -22,7 +22,7 @@ A list of package manager.
 | *[[https://docs.hunter.sh/en/latest/quick-start.html][CMake (Hunter)]]*  | [[https://docs.hunter.sh/en/latest/quick-start/boost-components.html][Manual]]         | [[https://github.com/ruslo/hunter][Hunter]]             | [[https://docs.hunter.sh/en/latest/packages.html][HunterPackages]]     |
 | *[[https://clojure.org/][Clojure]]*         | [[https://sdkman.io/sdks#leiningen][SDKMAN]]         | [[https://leiningen.org/][Leiningen]]          | [[https://clojars.org/][clojars]]            |
 | *[[https://clojurescript.org/][ClojureScript]]*   | [[https://github.com/thheller/shadow-cljs][shadow-cljs]]    | npm/yarn           | [[http://cljsjs.github.io/][CLJSJS]]             |
-| *[[https://common-lisp.net/][ConmmonLisp]]*     | [[https://github.com/roswell/roswell][Roswell]]        | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]]     | [[https://www.quicklisp.org/beta/releases.html][Quicklisp Repo]]     |
+| *[[https://common-lisp.net/][ConmmonLisp]]*     | [[https://github.com/roswell/roswell][Roswell]]        | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]]     | [[http://quickdocs.org/][QuickDocs]]          |
 | [[https://cocoapods.org/][Cocoa]]([[https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html][Objc]]/[[https://swift.org/][Swift]]) | [[https://swift.org/download/][*nix]]/[[https://swiftforwindows.github.io/][win]]       | [[https://github.com/Carthage/Carthage][Carthage]]/[[https://github.com/CocoaPods/CocoaPods][CocoaPods]] | git/[[https://cocoapods.org/][CocoaPods.org]]  |
 | [[https://crystal-lang.org/][Crystal]]           | [[https://crystal-lang.org/docs/installation/][Download]]       | [[https://github.com/crystal-lang/shards][Shards]]             | [[https://crystalshards.herokuapp.com/][Crystalshards]]      |
 | [[https://dlang.org/][D]]                 | [[https://dlang.org/download.html][Download]]       | [[http://code.dlang.org/][DUB]] (Built-in)     | [[http://code.dlang.org/][DUBPackages]]        |
@@ -35,6 +35,7 @@ A list of package manager.
 | *[[https://fsharp.org/][F#]]*              | [[https://dotnet.microsoft.com/download][dotnet]]         | [[https://fake.build/][FAKE]]/[[https://fsprojects.github.io/Paket/][Paket]]         | [[https://www.nuget.org/][NuGet]]              |
 | [[https://golang.org/][Go]]                | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/kardianos/govendor][govendor]]   | [[https://pkg.go.dev/][GO]]/[[https://godoc.org/][GoDoc]]           |
 | [[http://www.groovy-lang.org/][Groovy]]            | [[https://sdkman.io/sdks#groovy][SDKMAN]]         | [[https://docs.gradle.org/current/userguide/groovy_plugin.html][Gradle]](Plugin)     | [[http://search.maven.org/][MavenRepository]]    |
+| [[https://gluon-lang.org/][Gluon]]             | [[https://github.com/gluon-lang/gluon#install][INSTALL]]        | /                  | /                  |
 | *[[https://www.haskell.org/][Haskell]]*         | [[http://haskellstack.org][Stack]]          | [[http://haskellstack.org][Stack]]              | [[https://hackage.haskell.org/][Hackage]]            |
 | [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]       | [[https://lib.haxe.org][haxelib]](Built-in)  | [[https://lib.haxe.org/][HaxeRepository]]     |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]]    | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)   | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]          |
@@ -49,7 +50,7 @@ A list of package manager.
 | *[[https://nodejs.org/][Nodejs]]*          | [[https://github.com/tj/n][n]]/[[https://github.com/creationix/nvm][nvm]]          | [[https://www.npmjs.com/][npm]]/[[https://classic.yarnpkg.com/en/docs/install][yarn]]           | [[https://www.npmjs.com/][NPMRepo]]/[[https://yarnpkg.com/en/packages][YarnRepo]]   |
 | [[https://ocaml.org/][OCaml]]             | [[https://opam.ocaml.org/][OPAM]]           | [[https://opam.ocaml.org/packages/][OPAM]]               | [[https://opam.ocaml.org/packages/][OPAMRepository]]     |
 | [[https://www.perl.org/][Perl]]              | Built-in       | [[https://www.cpan.org/][CPAN]]               | [[https://www.cpan.org/][CPAN]] [[https://metacpan.org//][meta::cpan]]    |
-| [[https://www.ponylang.io/][Pony]]              | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]] | [[https://github.com/ponylang/corral][Corral]]             | git                |
+| [[https://www.ponylang.io/][Pony]]              | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]] | [[https://github.com/ponylang/corral][Corral]]/[[https://github.com/ponylang/pony-stable][pony-stable]] | git                |
 | [[http://php.net/][PHP]]               | [[https://github.com/phpbrew/phpbrew/][phpbrew]]/[[https://github.com/phpenv/phpenv][phpenv]] | [[https://getcomposer.org][Composer]]/[[http://eirt.science/xpm/][XPM]]       | [[https://packagist.org/][Packagist]]          |
 | [[http://www.purescript.org/][PureScript]]        | [[https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md][NPM]]            | [[https://github.com/purescript/psc-package][psc-package]]        | [[https://github.com/purescript/package-sets/blob/master/packages.json][packages.json]]      |
 | *[[https://www.python.org/][Python]]*          | [[https://github.com/pyenv/pyenv][pyenv]]          | [[https://github.com/sdispater/poetry][Poetry]]/[[https://docs.pipenv.org/][Pipenv]]      | [[https://pypi.python.org/pypi/pip/][PyPI]]               |
