@@ -84,7 +84,7 @@ A list of package manager.
 | [[https://improbable.io/games][SpatialOS]]       | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                  |
 | [[https://www.microsoft.com/en-us/windows/][Windows]]         | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]    |
 | Windows (Scoop) | [[https://scoop.sh/][install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]           |
-| Universal       | None      | [[https://github.com/epitron/upm][upm]]               | None                  |
+| [[https://github.com/epitron/upm#package-tools-to-wrap][Universal]]       | None      | [[https://github.com/epitron/upm][upm]]               | None                  |
 
 ** Editor
 | Name          | Installer | PackageManager       | Repository             |
