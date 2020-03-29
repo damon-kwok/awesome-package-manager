@@ -34,14 +34,14 @@ A list of package manager.
 | [[https://www.lua.org/][Lua]]               | [[https://github.com/mah0x211/lenv][lenv]]           | [[https://github.com/luarocks/luarocks][LuaRocks]]           | [[https://luarocks.org/][luarocks.org]]       |
 | [[https://ocaml.org/][OCaml]]             | [[https://opam.ocaml.org/][OPAM]]           | [[https://opam.ocaml.org/packages/][OPAM]]               | [[https://opam.ocaml.org/packages/][OPAMRepository]]     |
 | [[https://www.perl.org/][Perl]]              | Built-in       | [[https://www.cpan.org/][CPAN]]               | [[https://www.cpan.org/][CPAN]] [[https://metacpan.org//][meta::cpan]]    |
-| *[[https://www.python.org/][Python]]*          | [[https://github.com/pyenv/pyenv][pyenv]]          | [[https://github.com/sdispater/poetry][Poetry]]/[[https://docs.pipenv.org/][Pipenv]]      | [[https://pypi.python.org/pypi/pip/][PyPI]]               |
+| *[[https://www.python.org/][Python]]*          | [[https://github.com/pyenv/pyenv][pyenv]]          | [[https://github.com/sdispater/poetry][Poetry]]/[[https://docs.pipenv.org/][Pipenv]]      | [[https://pypi.org][PyPI]]               |
 | [[http://php.net/][PHP]]               | [[https://github.com/phpbrew/phpbrew/][phpbrew]]/[[https://github.com/phpenv/phpenv][phpenv]] | [[https://getcomposer.org][Composer]]/[[http://eirt.science/xpm/][XPM]]       | [[https://packagist.org/][Packagist]]          |
 | [[http://racket-lang.org/][Racket]]            | [[http://download.racket-lang.org/][Download]]       | [[https://docs.racket-lang.org/raco/][raco]]               | [[http://pkgs.racket-lang.org/][Racket Packages]]    |
 | [[https://www.ruby-lang.org/][Ruby]]              | [[https://github.com/rbenv/rbenv][rbenv]]/[[https://github.com/rvm/rvm][rvm]]      | [[https://bundler.io/][Bundler]]            | [[https://rubygems.org/][Rubygems Repo]]      |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]          | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]  |
 | [[https://haxe.org/][Haxe]]              | [[https://haxe.org/download/][Download]]       | [[https://lib.haxe.org][haxelib]](Built-in)  | [[https://lib.haxe.org/][HaxeRepository]]     |
-|-------------------+----------------+--------------------+--------------------|
 | Language III      | Installer      | PackageManager     | PackageViewer      |
+|-------------------+----------------+--------------------+--------------------|
 | *[[https://clojure.org/][Clojure]]*         | [[https://sdkman.io/sdks#leiningen][SDKMAN]]         | [[https://leiningen.org/][Leiningen]]          | [[https://clojars.org/][clojars]]            |
 | *[[https://clojurescript.org/][ClojureScript]]*   | [[https://github.com/thheller/shadow-cljs][shadow-cljs]]    | npm/yarn           | [[http://cljsjs.github.io/][CLJSJS]]             |
 | [[https://crystal-lang.org/][Crystal]]           | [[https://crystal-lang.org/docs/installation/][Download]]       | [[https://github.com/crystal-lang/shards][Shards]]             | [[https://crystalshards.herokuapp.com/][Crystalshards]]      |
@@ -52,6 +52,7 @@ A list of package manager.
 | *[[https://fsharp.org/][F#]]*              | [[https://dotnet.microsoft.com/download][dotnet]]         | [[https://fake.build/][FAKE]]/[[https://fsprojects.github.io/Paket/][Paket]]         | [[https://www.nuget.org/][NuGet]]              |
 | [[https://golang.org/][Go]]                | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/kardianos/govendor][govendor]]   | [[https://pkg.go.dev/][GO]]/[[https://godoc.org/][GoDoc]]           |
 | [[http://www.groovy-lang.org/][Groovy]]            | [[https://sdkman.io/sdks#groovy][SDKMAN]]         | [[https://docs.gradle.org/current/userguide/groovy_plugin.html][Gradle]](Plugin)     | [[http://search.maven.org/][MavenRepository]]    |
+| [[hylang.org][Hy]]                | [[https://pypi.org/project/pip/][pip]]            | [[https://pypi.org/project/pip/][pip]]                | [[https://pypi.org][PyPI]]               |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]]    | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)   | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]          |
 | *[[https://julialang.org/][Julia]]*           | [[https://julialang.org/downloads/][Download]]       | [[https://pkg.julialang.org/][Pkg]] (Built-in)     | [[https://pkg.julialang.org/][JuliaRepository]]    |
 | [[https://kotlinlang.org/][Kotlin]]            | [[https://sdkman.io/sdks#java][SDKMAN]]         | [[http://maven.apache.org/download.cgi][Maven]]/[[https://gradle.org/][Gradle]]       | [[http://search.maven.org/][MavenRepository]]    |
@@ -62,35 +63,35 @@ A list of package manager.
 | *[[http://www.scala-lang.org/][Scala]]*           | [[https://sdkman.io/sdks#scala][SDKMAN]]         | [[http://www.scala-sbt.org/][sbt]]                | [[http://search.maven.org/][MavenRepository]]    |
 | [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]            | [[https://swift.org/getting-started/#using-the-package-manager][swift]]              | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]          |
 | [[https://janet-lang.org/][Janet]]             | [[https://janet-lang.org/introduction.html][install]]        | [[https://janet-lang.org/index.html][jpm]] (Built-in)     | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]         |
-|-------------------+----------------+--------------------+--------------------|
 | Language IV       | Installer      | PackageManager     | PackageViewer      |
+|-------------------+----------------+--------------------+--------------------|
 | *[[https://www.rust-lang.org/][Rust]]*            | [[https://www.rustup.rs/][rustup]]         | [[https://github.com/rust-lang/cargo/][cargo]] (Built-in)   | [[https://crates.io/][crates.io]]          |
 | *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]      | [[https://github.com/nim-lang/nimble][Nimble]]             | [[https://nim-lang.org/docs/lib.html][NimRepository]]      |
-| [[https://github.com/microsoft/verona][Verona]]            | [[https://github.com/microsoft/verona/blob/master/docs/building.md][building]]       | /                  | /                  |
-| [[https://www.ponylang.io/][Pony]]              | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]] | [[https://github.com/ponylang/corral][Corral]]/[[https://github.com/ponylang/pony-stable][pony-stable]] | git                |
-| [[https://gluon-lang.org/][Gluon]]             | [[https://github.com/gluon-lang/gluon#install][INSTALL]]        | /                  | /                  |
+| *[[https://www.ponylang.io/][Pony]]*            | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]] | [[https://github.com/ponylang/corral][Corral]]/[[https://github.com/ponylang/pony-stable][pony-stable]] | git                |
 | [[https://ziglang.org/][Zig]]               | [[https://github.com/ziglang/zig/issues/943][building]]       | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
+| [[https://gluon-lang.org/][Gluon]]             | [[https://github.com/gluon-lang/gluon#install][INSTALL]]        | /                  | /                  |
+| [[https://github.com/microsoft/verona][Verona]]            | [[https://github.com/microsoft/verona/blob/master/docs/building.md][building]]       | /                  | /                  |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
 
 ** OS
-| Name            | Installer | PackageManager    | Repository            |
-|-----------------+-----------+-------------------+-----------------------|
-| [[https://www.android.com/][Android]]         | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][GooglePlay]]            |
-| [[https://www.chromium.org/chromium-os][ChromeOS]]        | [[https://www.chromium.org/chromium-os][Download]]  | [[https://github.com/skycocker/chromebrew][chromebrew]]        | [[https://github.com/skycocker/chromebrew/tree/master/packages][packages]]              |
-| Cluster         | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][PackageRepo]]           |
-| [[https://www.cygwin.com/][Cygwin]]          | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][CygwinPackageSearch]]   |
-| [[https://www.gnu.org/software/guix/][GNU Guix]]        | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]              |
-| [[http://www.msys2.org/][MSYS2]]           | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://packages.msys2.org/search][MSYS2-packages]]        |
-| [[https://www.kernel.org/][Linux]]           | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]              |
-| [[https://developer.apple.com/macos/][macOS]]           | [[https://brew.sh/][Install]]   | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]              |
-| [[https://nixos.org/][NixOS]]           | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][NixPackages]]           |
-| [[http://node-os.com/][NodeOS]]          | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPMRepository]]         |
-| [[http://www.ros.org/][ROS]]             | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS-Repository]]        |
-| [[https://solus-project.com/][Solus]]           | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]              |
-| [[https://improbable.io/games][SpatialOS]]       | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                  |
-| [[https://www.microsoft.com/en-us/windows/][Windows]]         | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]    |
-| Windows (Scoop) | [[https://scoop.sh/][install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]           |
-| [[https://github.com/epitron/upm#package-tools-to-wrap][Universal]]       | None      | [[https://github.com/epitron/upm][upm]]               | None                  |
+| Name            | Installer | PackageManager    | Repository          |
+|-----------------+-----------+-------------------+---------------------|
+| [[https://www.android.com/][Android]]         | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][GooglePlay]]          |
+| [[https://www.chromium.org/chromium-os][ChromeOS]]        | [[https://www.chromium.org/chromium-os][Download]]  | [[https://github.com/skycocker/chromebrew][chromebrew]]        | [[https://github.com/skycocker/chromebrew/tree/master/packages][packages]]            |
+| Cluster         | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][PackageRepo]]         |
+| [[https://www.cygwin.com/][Cygwin]]          | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][CygwinPackageSearch]] |
+| [[https://www.gnu.org/software/guix/][GNU Guix]]        | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]            |
+| [[http://www.msys2.org/][MSYS2]]           | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://packages.msys2.org/search][MSYS2-packages]]      |
+| [[https://www.kernel.org/][Linux]]           | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]            |
+| [[https://developer.apple.com/macos/][macOS]]           | [[https://brew.sh/][Install]]   | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]            |
+| [[https://nixos.org/][NixOS]]           | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][NixPackages]]         |
+| [[http://node-os.com/][NodeOS]]          | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPMRepository]]       |
+| [[http://www.ros.org/][ROS]]             | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS-Repository]]      |
+| [[https://solus-project.com/][Solus]]           | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]            |
+| [[https://improbable.io/games][SpatialOS]]       | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://chocolatey.org/][Choco]]) | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]  |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://scoop.sh/][Scoop]]) | [[https://scoop.sh/][install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]         |
+| [[https://github.com/epitron/upm#package-tools-to-wrap][Universal]]       | /         | [[https://github.com/epitron/upm][upm]]               | None                |
 
 ** Editor
 | Name          | Installer | PackageManager       | Repository             |
