@@ -16,10 +16,12 @@ A list of package manager.
 |-------------------+----------------+--------------------+---------------------|
 | [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in       | [[https://github.com/bpkg/bpkg][bpkg]]/[[https://github.com/bpm-rocks/bpm][bpm]]/[[https://github.com/basherpm/basher][basher]]    | [[http://www.bpkg.sh/][bpkg.sh]]             |
 | [[http://www.open-std.org/JTC1/SC22/WG14/][C]]                 | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]      | [[https://github.com/clibs/clib/wiki/Packages][clib]]               | [[https://github.com/clibs/clib/wiki/Packages][Packages]]            |
-| [[http://www.cplusplus.com/][C++]]               | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]] [[https://www.visualstudio.com/downloads/][VS]]   | [[https://github.com/Microsoft/vcpkg][Vcpkg]] / [[https://conan.io/][Conan]]      | [[https://bintray.com/conan][Private]]/[[https://bintray.com/bincrafters/public-conan][Public]]/[[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][Libs]] |
+| [[http://www.cplusplus.com/][C++]]               | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]] [[https://www.visualstudio.com/downloads/][VS]]   | [[https://github.com/Microsoft/vcpkg][Vcpkg]] / [[https://conan.io/][Conan]]      | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][Libs]]/[[https://bintray.com/conan][Private]]&[[https://bintray.com/bincrafters/public-conan][Public]] |
 | *[[https://common-lisp.net/][ConmmonLisp]]*     | [[https://github.com/roswell/roswell][Roswell]]        | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]]     | [[http://quickdocs.org/][QuickDocs]]           |
+| *[[https://www.scheme.com/tspl4/][Scheme]]*          | [[https://github.com/cisco/ChezScheme/blob/master/BUILDING][BUILDING]]       | [[https://github.com/guenchi/Raven][Raven]]              | [[http://ravensc.com/list][Packages]]            |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]          | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]   |
 | [[https://www.latex-project.org/][LaTeX]]             | [[http://www.tug.org/texlive/][TeX Live]]       | [[https://www.tug.org/texlive/tlmgr.html][tlmgr]]              | [[https://www.ctan.org/][CTAN]]                |
+
 | Language II       | Installer      | PackageManager     | PackageViewer       |
 |-------------------+----------------+--------------------+---------------------|
 | [[https://cmake.org/][CMake]]             | [[https://cmake.org/download][Download]]       | [[https://github.com/iauns/cpm][CPM]]                | [[http://www.cpm.rocks/][CPMRepository]]       |
@@ -39,6 +41,7 @@ A list of package manager.
 | [[http://php.net/][PHP]]               | [[https://github.com/phpbrew/phpbrew/][phpbrew]]/[[https://github.com/phpenv/phpenv][phpenv]] | [[https://getcomposer.org][Composer]]/[[http://eirt.science/xpm/][XPM]]       | [[https://packagist.org/][Packagist]]           |
 | [[http://racket-lang.org/][Racket]]            | [[http://download.racket-lang.org/][Download]]       | [[https://docs.racket-lang.org/raco/][raco]]               | [[http://pkgs.racket-lang.org/][Racket Packages]]     |
 | [[https://www.ruby-lang.org/][Ruby]]              | [[https://github.com/rbenv/rbenv][rbenv]]/[[https://github.com/rvm/rvm][rvm]]      | [[https://bundler.io/][Bundler]]            | [[https://rubygems.org/][Rubygems Repo]]       |
+
 | Language III      | Installer      | PackageManager     | PackageViewer       |
 |-------------------+----------------+--------------------+---------------------|
 | *[[https://clojure.org/][Clojure]]*         | [[https://sdkman.io/sdks#leiningen][SDKMAN]]         | [[https://leiningen.org/][Leiningen]]          | [[https://clojars.org/][clojars]]             |
@@ -62,6 +65,7 @@ A list of package manager.
 | *[[http://www.scala-lang.org/][Scala]]*           | [[https://sdkman.io/sdks#scala][SDKMAN]]         | [[http://www.scala-sbt.org/][sbt]]                | [[http://search.maven.org/][MavenRepository]]     |
 | [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]            | [[https://swift.org/getting-started/#using-the-package-manager][swift]]              | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]           |
 | [[https://janet-lang.org/][Janet]]             | [[https://janet-lang.org/introduction.html][install]]        | [[https://janet-lang.org/index.html][jpm]] (Built-in)     | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]          |
+
 | Language IV       | Installer      | PackageManager     | PackageViewer       |
 |-------------------+----------------+--------------------+---------------------|
 | [[https://gluon-lang.org/][Gluon]]             | [[https://github.com/gluon-lang/gluon#install][INSTALL]]        | /                  | /                   |
