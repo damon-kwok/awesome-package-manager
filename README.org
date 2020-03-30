@@ -40,6 +40,7 @@ A list of package manager.
 | [[https://www.perl.org/][Perl]]              | Built-in        | [[https://www.cpan.org/][CPAN]]               | [[https://www.cpan.org/][CPAN]] [[https://metacpan.org//][meta::cpan]]   |
 | *[[https://www.python.org/][Python]]*          | [[https://github.com/pyenv/pyenv][pyenv]]           | [[https://github.com/sdispater/poetry][Poetry]]/[[https://docs.pipenv.org/][Pipenv]]      | [[https://pypi.org][PyPI]]              |
 | [[http://php.net/][PHP]]               | [[https://github.com/phpbrew/phpbrew/][phpbrew]]/[[https://github.com/phpenv/phpenv][phpenv]]  | [[https://getcomposer.org][Composer]]/[[http://eirt.science/xpm/][XPM]]       | [[https://packagist.org/][Packagist]]         |
+| *[[https://www.qt.io/][QT]]*              | [[https://www.qt.io/download][Download]]        | [[https://inqlude.org/get.html][inqlude]]            | [[https://inqlude.org/][#inqlude]]          |
 | [[http://racket-lang.org/][Racket]]            | [[http://download.racket-lang.org/][Download]]        | [[https://docs.racket-lang.org/raco/][raco]]               | [[http://pkgs.racket-lang.org/][Racket Packages]]   |
 | [[https://www.ruby-lang.org/][Ruby]]              | [[https://github.com/rbenv/rbenv][rbenv]]/[[https://github.com/rvm/rvm][rvm]]       | [[https://bundler.io/][Bundler]]            | [[https://rubygems.org/][Rubygems Repo]]     |
 
@@ -57,6 +58,7 @@ A list of package manager.
 | [[http://www.groovy-lang.org/][Groovy]]            | [[https://sdkman.io/sdks#groovy][SDKMAN]]          | [[https://docs.gradle.org/current/userguide/groovy_plugin.html][Gradle]](Plugin)     | [[http://search.maven.org/][MavenRepository]]   |
 | [[hylang.org][Hy]]                | [[https://pypi.org/project/pip/][pip]]             | [[https://pypi.org/project/pip/][pip]]                | [[https://pypi.org][PyPI]]              |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]]     | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)   | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]         |
+| [[https://janet-lang.org/][Janet]]             | [[https://janet-lang.org/introduction.html][install]]         | [[https://janet-lang.org/index.html][jpm]] (Built-in)     | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]        |
 | *[[https://julialang.org/][Julia]]*           | [[https://julialang.org/downloads/][Download]]        | [[https://pkg.julialang.org/][Pkg]] (Built-in)     | [[https://pkg.julialang.org/][JuliaRepository]]   |
 | [[https://kotlinlang.org/][Kotlin]]            | [[https://sdkman.io/sdks#java][SDKMAN]]          | [[http://maven.apache.org/download.cgi][Maven]]/[[https://gradle.org/][Gradle]]       | [[http://search.maven.org/][MavenRepository]]   |
 | *[[https://nodejs.org/][Nodejs]]*          | [[https://github.com/tj/n][n]]/[[https://github.com/creationix/nvm][nvm]]           | [[https://www.npmjs.com/][npm]]/[[https://classic.yarnpkg.com/en/docs/install][yarn]]           | [[https://www.npmjs.com/][NPMRepo]]/[[https://yarnpkg.com/en/packages][YarnRepo]]  |
@@ -65,7 +67,6 @@ A list of package manager.
 | [[https://reasonml.github.io/][Reason]]            | [[https://reasonml.github.io/docs/en/installation][install]]         | [[https://esy.sh/][esy]]                | [[https://redex.github.io/][Redex]]             |
 | *[[http://www.scala-lang.org/][Scala]]*           | [[https://sdkman.io/sdks#scala][SDKMAN]]          | [[http://www.scala-sbt.org/][sbt]]                | [[http://search.maven.org/][MavenRepository]]   |
 | [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]             | [[https://swift.org/getting-started/#using-the-package-manager][swift]]              | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]         |
-| [[https://janet-lang.org/][Janet]]             | [[https://janet-lang.org/introduction.html][install]]         | [[https://janet-lang.org/index.html][jpm]] (Built-in)     | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]        |
 
 | Language IV       | Installer       | PackageManager     | PackageViewer     |
 |-------------------+-----------------+--------------------+-------------------|
@@ -119,7 +120,6 @@ A list of package manager.
 | IoT           | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]   |
 | [[https://nanobox.io/][Nanobox]]       | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None        |
 | [[https://puppet.com/][Puppet]]        | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]] |
-| [[https://www.qt.io/][QT]]            | [[https://www.qt.io/download][Download]]  | [[https://inqlude.org/get.html][inqlude]]           | [[https://inqlude.org/][#inqlude]]    |
 | [[http://reaper.fm/index.php][REAPER]]        | [[http://reaper.fm/download.php][Download]]  | [[https://github.com/cfillion/reapack][Reapack]]           | [[https://reapack.com/repos][Repos]]       |
 | [[https://coreos.com/rkt/][Rocket(rkt)]]   | [[https://github.com/rkt/rkt][Download]]  | rkt(Built-in)     | [[https://hub.docker.com/][Docker Hub]]  |
 | [[https://unity3d.com/][Unity3D]]       | [[https://forum.unity.com/threads/unity-hub-release-candidate-0-20-1-is-now-available.546315/][UnityHub]]  | [[https://github.com/modesttree/projeny][Projeny]]           | [[https://www.assetstore.unity3d.com/][Asset Store]] |
