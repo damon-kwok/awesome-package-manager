@@ -21,6 +21,7 @@ A list of package manager.
 | [[https://www.fortran.com/][Fortran]]           | [[http://www.g95.org/][G95]] [[https://software.intel.com/en-us/parallel-studio-xe/choose-download][IFC]] [[http://simplyfortran.com/][S]] [[https://github.com/flang-compiler/f18][F18]] [[https://lfortran.org/][L]] | [[http://packages.simplyfortran.com/client.html][Simply]]             | [[http://packages.simplyfortran.com/search/index.html][Packages]]          |
 | *[[https://www.scheme.com/tspl4/][Scheme]]*          | [[https://github.com/cisco/ChezScheme/blob/master/BUILDING][BUILDING]]        | [[https://akkuscm.org/][AKKU]] [[https://github.com/guenchi/Raven][Raven]]         | [[https://akkuscm.org/packages/][Packages]] [[http://ravensc.com/list][Packages]] |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]           | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]] |
+| [[http://www.smalltalk.org/][Smalltalk]]         | [[http://pharo.org/download][Pharo]]           | [[https://github.com/hernanmd/pi][PI]]                 | [[http://www.smalltalkhub.com/][SmalltalkHub]]      |
 
 | Language II       | Installer       | PackageManager     | PackageViewer     |
 |-------------------+-----------------+--------------------+-------------------|
