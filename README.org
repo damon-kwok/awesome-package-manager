@@ -27,6 +27,7 @@ A list of package manager.
 
 | Language II       | Installer       | PackageManager     | PackageViewer      |
 |-------------------+-----------------+--------------------+--------------------|
+| [[https://www.adacore.com/][Ada]]               | [[https://www.adacore.com/download][GANT]]            | [[https://github.com/alire-project/alire][ALIRE]]              | [[https://github.com/alire-project/alire-index][AlireCatalog]]       |
 | [[https://cmake.org/][CMake]]             | [[https://cmake.org/download][Download]]        | [[https://github.com/iauns/cpm][CPM]]                | [[http://www.cpm.rocks/][CPMRepository]]      |
 | *[[https://docs.hunter.sh/en/latest/quick-start.html][CMake (Hunter)]]*  | [[https://docs.hunter.sh/en/latest/quick-start/boost-components.html][Manual]]          | [[https://github.com/ruslo/hunter][Hunter]]             | [[https://docs.hunter.sh/en/latest/packages.html][HunterPackages]]     |
 | [[https://cocoapods.org/][Cocoa]]([[https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html][Objc]]/[[https://swift.org/][Swift]]) | [[https://swift.org/download/][*nix]]/[[https://swiftforwindows.github.io/][win]]        | [[https://github.com/Carthage/Carthage][Carthage]]/[[https://github.com/CocoaPods/CocoaPods][CocoaPods]] | git/[[https://cocoapods.org/][CocoaPods.org]]  |
