@@ -109,12 +109,13 @@ A list of package manager.
 |---------------+-----------+----------------------+------------------------|
 | [[https://atom.io/][Atom]]          | [[https://atom.io/][Download]]  | [[https://github.com/atom/apm][apm]](Built-in)/[[https://atmospherejs.com/][Meteor]] | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]          |
 | [[https://eclipse.org/][Eclipse]]       | [[https://www.eclipse.org/downloads/][Download]]  | Built-in             | [[https://marketplace.eclipse.org/][Marketplace]]            |
-| [[https://www.gnu.org/software/emacs/][Emacs]]         | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in / [[https://github.com/cask/cask][Cask]]      | [[https://melpa.org/#/][MELPA]]                  |
+| *[[https://www.gnu.org/software/emacs/][Emacs]]*       | [[https://www.gnu.org/software/emacs/][Download]]  | Built-in / [[https://github.com/cask/cask][Cask]]      | [[https://melpa.org/#/][MELPA]]                  |
 | [[https://www.jetbrains.com/][JetBrains-IDE]] | [[https://www.jetbrains.com/][Download]]  | Built-in             | [[https://plugins.jetbrains.com/][PluginsRepository]]      |
+| [[https://www.nano-editor.org/][Nano]]          | [[https://www.nano-editor.org/download.php][src]] [[https://git.savannah.gnu.org/cgit/nano.git/][git]]   | /                    | [[https://github.com/serialhex/nano-highlight][nano-highlight]]         |
 | [[https://www.sublimetext.com/][Sublime]]       | [[https://www.sublimetext.com/3][Download]]  | [[https://packagecontrol.io/][PackageControl]]       | [[https://packagecontrol.io/][PackageControlPackages]] |
 | [[https://code.visualstudio.com/][VSCode]]        | [[https://code.visualstudio.com/Download][Download]]  | Built-in             | [[https://marketplace.visualstudio.com/VSCode][Marketplace]]            |
 | [[https://www.visualstudio.com/downloads/][VisualStudio]]  | [[https://www.visualstudio.com/downloads/][Download]]  | Built-in             | [[https://marketplace.visualstudio.com/vs][Marketplace]]            |
-| [[http://www.vim.org/][Vim]]           | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]]  | [[https://vim.sourceforge.io/search.php][Search-for-Vim-Script]]  |
+| *[[http://www.vim.org/][Vim]]*         | [[https://vim.sourceforge.io/download.php][Download]]  | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]]  | [[https://vim.sourceforge.io/search.php][Search-for-Vim-Script]]  |
 | [[https://developer.apple.com/xcode/][Xcode]]         | [[https://developer.apple.com/xcode/][Download]]  | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]             | [[https://github.com/alcatraz/alcatraz-packages][AlcatrazPackages]]       |
 
 ** Other
