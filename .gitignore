@@ -1,1 +1,4 @@
-*.html
+# ignore everything
+*
+
+!README.*
