@@ -84,7 +84,7 @@ A list of package manager.
 | [[http://www.skiplang.com/][Skip]]              | [[https://github.com/skiplang/skip/blob/master/docs/developer/README-cmake.md][building]]          | /                  | /                 |
 | [[https://vlang.io/][vlang]]             | [[https://github.com/vlang/v#installing-v-from-source][building]]          | [[https://github.com/vlang/vpm][VPM]]                | [[https://vpm.vlang.io][vpm.best]]          |
 | [[https://github.com/microsoft/verona][Verona]]            | [[https://github.com/microsoft/verona/blob/master/docs/building.md][building]]          | /                  | /                 |
-| [[https://ziglang.org/][Zig]]               | [[https://github.com/ziglang/zig/issues/943][building]]          | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                 |
+| [[https://ziglang.org/][Zig]]               | [[https://ziglang.org/download/][Download]]          | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                 |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
 
 ** OS
