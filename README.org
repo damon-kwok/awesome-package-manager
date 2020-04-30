@@ -75,7 +75,7 @@ A list of package manager.
 
 | Language IV       | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
-| [[https://github.com/carp-lang/Carp][Carp]]              | [[https://github.com/carp-lang/Carp/blob/master/docs/Install.md][INSTALL]]           | [[https://github.com/carpentry-org][Carpentry]]          | [[https://github.com/carp-lang/Carp/blob/master/docs/Libraries.md#core-modules][Core]] [[https://github.com/carpentry-org][carpentry-org]] |
+| [[https://github.com/carp-lang/Carp][Carp]] ([[https://github.com/carp-lang/Carp/blob/master/docs/LanguageGuide.md][Guide]])      | [[Https://github.com/carp-lang/Carp/blob/master/docs/Install.md][INSTALL]]           | [[https://github.com/carpentry-org][Carpentry]]          | [[https://github.com/carp-lang/Carp/blob/master/docs/Libraries.md#core-modules][Core]] [[https://github.com/carpentry-org][carpentry-org]] |
 | [[https://github.com/denoland/deno][Deno]]              | [[https://github.com/denoland/deno_install][deno_install]]      | [[https://deno.land/std/manual.md#built-in-deno-utilities--commands][deno]] (Built-in)    | git                |
 | [[https://gluon-lang.org/][Gluon]]             | [[https://github.com/gluon-lang/gluon#install][INSTALL]]           | /                  | /                  |
 | *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]         | [[https://github.com/nim-lang/nimble][Nimble]]             | [[https://nim-lang.org/docs/lib.html][NimRepository]]      |
