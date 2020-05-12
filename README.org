@@ -24,6 +24,7 @@ A list of package manager.
 | [[http://prolog.org/][Prolog]]            | [[http://gprolog.org/#download][GNU]] [[https://www.swi-prolog.org/download][SWI]] [[https://riptutorial.com/prolog][more...]]   | [[https://www.swi-prolog.org/pldoc/doc/_SWI_/library/prolog_pack.pl][pack.pl]] [[https://github.com/wouterbeek/ppm][PPM]]        | [[https://www.swi-prolog.org/pack/list][Pcakages]]           |
 | [[http://www.smalltalk.org/][Smalltalk]]         | [[http://pharo.org/download][Pharo]]             | [[https://github.com/hernanmd/pi][PI]]                 | [[http://www.smalltalkhub.com/][SmalltalkHub]]       |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]             | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]  |
+
 | Language II       | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
 | [[https://www.adacore.com/][Ada]]               | [[https://www.adacore.com/download][GANT]]              | [[https://github.com/alire-project/alire][ALIRE]]              | [[https://github.com/alire-project/alire-index][AlireCatalog]]       |
@@ -59,7 +60,7 @@ A list of package manager.
 | [[https://eta-lang.org/][Eta]]               | [[https://eta-lang.org/docs/user-guides/eta-user-guide/installation/methods][INSTALL]]           | [[https://github.com/typelead/etlas][Etlas]]              | [[https://github.com/typelead/eta-hackage][EtaHackage]]         |
 | [[https://fsharp.org/][F#]]                | [[https://dotnet.microsoft.com/download][dotnet]]            | [[https://fake.build/][FAKE]]/[[https://fsprojects.github.io/Paket/][Paket]]         | [[https://www.nuget.org/][NuGet]]              |
 | [[https://github.com/Frege/frege][Frege]] ([[http://www.frege-lang.org/doc/][doc]])       | [[http://get.frege-lang.org/][grt.frege]]         | [[https://hoogle.haskell.org/][Hoogle]] and [[http://maven.apache.org/download.cgi][Maven]]   | [[https://hoogle.haskell.org/][Stackage]][[http://search.maven.org/][Maven]]      |
-| *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]         | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/kardianos/govendor][govendor]]   | [[https://pkg.go.dev/][GO]]/[[https://godoc.org/][GoDoc]]           |
+| *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]         | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/kardianos/govendor][govendor]]   | [[https://pkg.go.dev/][GO.DEV]]/[[https://godoc.org/][GoDoc]]       |
 | [[http://www.groovy-lang.org/][Groovy]]            | [[https://sdkman.io/sdks#groovy][SDKMAN]]            | [[https://docs.gradle.org/current/userguide/groovy_plugin.html][Gradle]](Plugin)     | [[http://search.maven.org/][MavenRepository]]    |
 | [[hylang.org][Hy]]                | [[https://pypi.org/project/pip/][pip]]               | [[https://pypi.org/project/pip/][pip]]                | [[https://pypi.org][PyPI]]               |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]]       | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)   | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]          |
@@ -116,12 +117,15 @@ A list of package manager.
 |-----------------+-----------+-------------------+---------------------|
 | [[https://www.android.com/][Android]]         | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][GooglePlay]]          |
 | [[https://www.chromium.org/chromium-os][ChromeOS]]        | [[https://www.chromium.org/chromium-os][Download]]  | [[https://github.com/skycocker/chromebrew][chromebrew]]        | [[https://github.com/skycocker/chromebrew/tree/master/packages][packages]]            |
+| cross-platform  | /         | [[https://gofi.sh/#install][GoFish]]            | /                   |
 | Cluster         | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][PackageRepo]]         |
 | [[https://www.cygwin.com/][Cygwin]]          | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][CygwinPackageSearch]] |
 | [[https://www.gnu.org/software/guix/][GNU Guix]]        | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]            |
-| [[http://www.msys2.org/][MSYS2]]           | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://packages.msys2.org/search][MSYS2-packages]]      |
+| [[https://kubernetes.io/][Kubernetes]]      | /         | [[https://helm.sh/][Helm]]              | /                   |
 | [[https://www.kernel.org/][Linux]]           | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]            |
+| [[https://www.tecmint.com/best-linux-desktop-environments/][LinuxDesktop]]    | /         | [[https://snapcraft.io/][SnapCraft]]         | [[https://snapcraft.io/store][Store]]               |
 | [[https://developer.apple.com/macos/][macOS]]           | [[https://brew.sh/][Install]]   | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]            |
+| [[http://www.msys2.org/][MSYS2]]           | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://packages.msys2.org/search][MSYS2-packages]]      |
 | [[https://nixos.org/][NixOS]]           | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][NixPackages]]         |
 | [[http://node-os.com/][NodeOS]]          | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPMRepository]]       |
 | [[http://www.ros.org/][ROS]]             | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS-Repository]]      |
