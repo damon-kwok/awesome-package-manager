@@ -120,8 +120,9 @@ A list of package manager.
 | cross-platform  | /         | [[https://gofi.sh/#install][GoFish]]            | /                   |
 | Cluster         | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][PackageRepo]]         |
 | [[https://www.cygwin.com/][Cygwin]]          | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][CygwinPackageSearch]] |
+| *[[https://www.docker.com][Docker]]*        | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][DockerHub]]           |
 | [[https://www.gnu.org/software/guix/][GNU Guix]]        | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]            |
-| [[https://kubernetes.io/][Kubernetes]]      | /         | [[https://helm.sh/][Helm]]              | /                   |
+| [[https://kubernetes.io/][Kubernetes]]      | [[https://kubernetes.io/docs/tasks/tools/install-kubectl/][Install]]   | [[https://helm.sh/][Helm]]              | [[https://hub.docker.com/][DockerHub]]           |
 | [[https://www.kernel.org/][Linux]]           | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]            |
 | [[https://www.tecmint.com/best-linux-desktop-environments/][LinuxDesktop]]    | /         | [[https://snapcraft.io/][SnapCraft]]         | [[https://snapcraft.io/store][Store]]               |
 | [[https://developer.apple.com/macos/][macOS]]           | [[https://brew.sh/][Install]]   | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]            |
@@ -132,7 +133,7 @@ A list of package manager.
 | [[https://solus-project.com/][Solus]]           | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]            |
 | [[https://improbable.io/games][SpatialOS]]       | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                |
 | [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://chocolatey.org/][Choco]]) | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]  |
-| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://scoop.sh/][Scoop]]) | [[https://scoop.sh/][install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]         |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://scoop.sh/][Scoop]]) | [[https://scoop.sh/][Install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]         |
 | [[https://github.com/epitron/upm#package-tools-to-wrap][Universal]]       | /         | [[https://github.com/epitron/upm][upm]]               | None                |
 
 ** Other
@@ -140,7 +141,6 @@ A list of package manager.
 |---------------+-----------+-------------------+-------------|
 | *[[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash-it]]*     | [[https://github.com/Bash-it/bash-it][Install]]   | bash-it           | [[https://github.com/Bash-it/bash-it/wiki/Themes][Themes]]      |
 | *[[http://www.zsh.org/][Oh-my-zsh]]*   | [[https://github.com/robbyrussell/oh-my-zsh][Install]]   | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]     |
-| *[[https://www.docker.com][Docker]]*      | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][Docker Hub]]  |
 | IoT           | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]   |
 | [[https://nanobox.io/][Nanobox]]       | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None        |
 | [[https://puppet.com/][Puppet]]        | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]] |
