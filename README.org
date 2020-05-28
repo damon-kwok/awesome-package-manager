@@ -91,14 +91,16 @@ A list of package manager.
 | Name          | Installer    | PackageManager       | Repository             |
 |---------------+--------------+----------------------+------------------------|
 | [[https://atom.io/][Atom]]          | [[https://atom.io/][Download]]     | [[https://github.com/atom/apm][apm]](Built-in)/[[https://atmospherejs.com/][Meteor]] | [[https://atom.io/packages][Atom]] / [[https://atmospherejs.com/][Meteor]]          |
+| [[http://brackets.io/][Brackets]]      | [[https://github.com/adobe/brackets/releases][Download]]     | Built-in             | [[https://registry.brackets.io/][Registry]]               |
 | [[http://www.uvviewsoft.com/cudatext/][CudaText]]      | [[http://www.uvviewsoft.com/cudatext/download.html][Download]]     | Build-in             | [[https://sourceforge.net/p/synwrite/wiki/Lexers%20list/][Lexers]]                 |
 | [[https://eclipse.org/][Eclipse]]       | [[https://www.eclipse.org/downloads/][Download]]     | Built-in             | [[https://marketplace.eclipse.org/][Marketplace]]            |
 | *[[https://www.gnu.org/software/emacs/][Emacs]]*       | [[https://www.gnu.org/software/emacs/][Download]]     | Built-in / [[https://github.com/cask/cask][Cask]]      | [[https://melpa.org/#/][MELPA]]                  |
 | [[https://www.jetbrains.com/][JetBrains-IDE]] | [[https://www.jetbrains.com/][Download]]     | Built-in             | [[https://plugins.jetbrains.com/][PluginsRepository]]      |
+| [[http://lighttable.com/][LightTable]]    | [[http://lighttable.com/#][Download]]     | Built-in             | [[https://github.com/LightTable/plugin-metadata][Plugin-Metadata]]        |
 | [[https://micro-editor.github.io/index.html][MicroEditor]]   | [[https://micro-editor.github.io/index.html][Download]] [[https://github.com/zyedidia/micro#building-from-source][src]] | micro (Built-in)     | [[https://micro-editor.github.io/plugins.html][Plugins]]                |
 | [[http://aquest.com/emacs.htm][MicroEmacs]]    | [[http://aquest.com/downloads/emacs5.zip][src]]          | /                    | /                      |
 | [[https://www.nano-editor.org/][Nano]]          | [[https://www.nano-editor.org/download.php][src]] [[https://git.savannah.gnu.org/cgit/nano.git/][git]]      | /                    | [[https://github.com/serialhex/nano-highlight][nano-highlight]]         |
-| *[[https://neovim.io/][Neovim]]*      | [[https://github.com/neovim/neovim/wiki/Installing-Neovim][Install]]  [[https://github.com/neovim/neovim][src]]  | [[https://github.com/junegunn/vim-plug][vim-plug]]             | [[https://vim.sourceforge.io/search.php][Search-for-Vim-Script]]  |
+| *[[https://neovim.io/][Neovim]]*      | [[https://github.com/neovim/neovim/wiki/Installing-Neovim][Install]]  [[https://github.com/neovim/neovim][src]] | [[https://github.com/junegunn/vim-plug][vim-plug]]             | [[https://vim.sourceforge.io/search.php][Search-for-Vim-Script]]  |
 | [[https://www.sublimetext.com/][Sublime]]       | [[https://www.sublimetext.com/3][Download]]     | [[https://packagecontrol.io/][PackageControl]]       | [[https://packagecontrol.io/][PackageControlPackages]] |
 | [[https://macromates.com/][TextMate]]      | [[http://macromates.com/download][Download]] [[https://github.com/textmate/textmate][src]] | Built-in             | [[https://macromates.com/textmate/manual/snippets][Snippets]]               |
 | [[https://git.kernel.org/pub/scm/editors/uemacs/uemacs.git][uemacs]]        | [[https://github.com/torvalds/uemacs][src]]          | /                    | /                      |
