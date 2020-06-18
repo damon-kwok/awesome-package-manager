@@ -5,7 +5,7 @@
 #+OPTIONS: toc:nil creator:nil author:nil email:nil timestamp:nil html-postamble:nil
 #+TODO: TODO DOING DONE
 
-[[https://github.com/damon-kwok/awesome-package-manager/blob/master/LICENSE][https://img.shields.io/github/license/damon-kwok/oh-my-env]]
+[[https://github.com/damon-kwok/awesome-package-manager/blob/master/LICENSE][https://img.shields.io/github/license/damon-kwok/awesome-package-manager]]
 [[https://github.com/damon-kwok][https://awesome.re/badge-flat2.svg]]
 [[https://orgmode.org/][https://img.shields.io/badge/Made%20with-Orgmode-1f425f.svg]]
 
