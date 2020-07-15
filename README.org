@@ -16,7 +16,7 @@ A list of package manager.
 [[https://imgs.xkcd.com/comics/packages.png]]
 
 ** Programming Languages
-| Language I        | Installer         | PackageManager     | PackageViewer      |
+| Language-I        | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
 | [[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash]]              | Built-in          | [[https://github.com/bpkg/bpkg][bpkg]]/[[https://github.com/bpm-rocks/bpm][bpm]]/[[https://github.com/basherpm/basher][basher]]    | [[http://www.bpkg.sh/][bpkg.sh]]            |
 | *[[http://www.open-std.org/JTC1/SC22/WG14/][C]]* ([[http://libcello.org/][libcello]])    | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]]         | [[https://github.com/clibs/clib/wiki/Packages][clib]]               | [[https://github.com/clibs/clib/wiki/Packages][Packages]]           |
@@ -29,7 +29,7 @@ A list of package manager.
 | [[http://www.smalltalk.org/][Smalltalk]]         | [[http://pharo.org/download][Pharo]]             | [[https://github.com/hernanmd/pi][PI]]                 | [[http://www.smalltalkhub.com/][SmalltalkHub]]       |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]             | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]  |
 |-------------------+-------------------+--------------------+--------------------|
-| Language II       | Installer         | PackageManager     | PackageViewer      |
+| *Language-II*     | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
 | [[https://www.adacore.com/][Ada]]               | [[https://www.adacore.com/download][GANT]]              | [[https://github.com/alire-project/alire][ALIRE]]              | [[https://github.com/alire-project/alire-index][AlireCatalog]]       |
 | [[https://cmake.org/][CMake]]             | [[https://cmake.org/download][Download]]          | [[https://github.com/iauns/cpm][CPM]]                | [[http://www.cpm.rocks/][CPMRepository]]      |
@@ -51,9 +51,10 @@ A list of package manager.
 | [[http://php.net/][PHP]]               | [[https://github.com/phpbrew/phpbrew/][phpbrew]]/[[https://github.com/phpenv/phpenv][phpenv]]    | [[https://getcomposer.org][Composer]]/[[http://eirt.science/xpm/][XPM]]       | [[https://packagist.org/][Packagist]]          |
 | [[https://www.qt.io/][QT]]                | [[https://www.qt.io/download][Download]]          | [[https://inqlude.org/get.html][inqlude]]            | [[https://inqlude.org/][#inqlude]]           |
 | *[[http://racket-lang.org/][Racket]]*          | [[http://download.racket-lang.org/][Download]]          | [[https://docs.racket-lang.org/raco/][raco]]               | [[http://pkgs.racket-lang.org/][Racket Packages]]    |
+| [[https://raku.org/][Raku]] ([[https://raku.guide/][Guide]])      | [[https://raku.org/downloads/][Download]]          | [[https://raku.guide/#_raku_modules][zef]] (Built-in)     | [[https://modules.raku.org/][Modules]]            |
 | [[https://www.ruby-lang.org/][Ruby]]              | [[https://github.com/rbenv/rbenv][rbenv]]/[[https://github.com/rvm/rvm][rvm]]         | [[https://bundler.io/][Bundler]]            | [[https://rubygems.org/][Rubygems Repo]]      |
 |-------------------+-------------------+--------------------+--------------------|
-| Language III      | Installer         | PackageManager     | PackageViewer      |
+| *Language-III*    | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
 | *[[https://clojure.org/][Clojure]]*         | [[https://sdkman.io/sdks#leiningen][SDKMAN]]            | [[https://leiningen.org/][Leiningen]]          | [[https://clojars.org/][clojars]]            |
 | [[https://clojurescript.org/][ClojureScript]]     | [[https://github.com/thheller/shadow-cljs][shadow-cljs]]       | npm/yarn           | [[http://cljsjs.github.io/][CLJSJS]]             |
@@ -79,7 +80,7 @@ A list of package manager.
 | [[http://www.scala-lang.org/][Scala]]             | [[https://sdkman.io/sdks#scala][SDKMAN]]            | [[http://www.scala-sbt.org/][SBT]]                | [[http://search.maven.org/][MavenRepository]]    |
 | [[https://swift.org/getting-started/#using-the-package-manager][Swift]]             | [[https://github.com/apple/swift-package-manager#installation][spm]]               | [[https://swift.org/getting-started/#using-the-package-manager][swift]]              | [[https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageDescriptionV4.md#dependencies][Reference]]          |
 |-------------------+-------------------+--------------------+--------------------|
-| Language IV       | Installer         | PackageManager     | PackageViewer      |
+| *Language-IV*     | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
 | [[https://www.beeflang.org/][Beef]]              | [[https://www.beeflang.org/#releases][Releases]]          | /                  | /                  |
 | [[https://github.com/carp-lang/Carp][Carp]] ([[https://github.com/carp-lang/Carp/blob/master/docs/LanguageGuide.md][Guide]])      | [[Https://github.com/carp-lang/Carp/blob/master/docs/Install.md][INSTALL]]           | [[https://github.com/carpentry-org][Carpentry]]          | [[https://github.com/carp-lang/Carp/blob/master/docs/Libraries.md#core-modules][Core]] [[https://github.com/carpentry-org][Carpentry]]     |
@@ -90,7 +91,7 @@ A list of package manager.
 | [[https://www.mint-lang.com][Mint]]              | [[https://www.mint-lang.com/install][INSTALL]]           | /                  | [[https://www.mint-lang.com/packages][Packages]]           |
 | *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]         | [[https://github.com/nim-lang/nimble][Nimble]]             | [[https://nim-lang.org/docs/lib.html][NimRepository]]      |
 | [[https://odin-lang.org/][Odin]] ([[https://github.com/odin-lang][GitHub]])     | [[https://odin-lang.org/downloads/][INSTALL]]           | /                  | [[https://github.com/odin-lang/odin-libs][odin-libs]]          |
-| *[[https://www.ponylang.io/][Pony]]* (‍[[https://opencollective.com/ponyc][❤]])      | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]]    | [[https://github.com/ponylang/corral][Corral]]/[[https://github.com/ponylang/pony-stable][pony-stable]] | [[https://www.main.actor/][main.actor]]/[[https://ponyhub.bali.io/][PonyHub]] |
+| *[[https://www.ponylang.io/][Pony]]* (‍[[https://opencollective.com/ponyc][❤]])        | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]]    | [[https://github.com/ponylang/corral][Corral]]/[[https://github.com/ponylang/pony-stable][pony-stable]] | [[https://www.main.actor/][main.actor]]/[[https://ponyhub.bali.io/][PonyHub]] |
 | [[https://www.red-lang.org/][Red ]]([[https://github.com/red/code][Example]])     | [[https://www.red-lang.org/p/download.html][Download]] [[https://github.com/red/red#running-red-from-the-sources-for-contributors][Build]]    | /                  | /                  |
 | *[[https://www.rust-lang.org/][Rust]]*            | [[https://www.rustup.rs/][rustup]]            | [[https://github.com/rust-lang/cargo/][cargo]] (Built-in)   | [[https://crates.io/][crates.io]]          |
 | [[http://www.skiplang.com/][Skip]]              | [[https://github.com/skiplang/skip/blob/master/docs/developer/README-cmake.md][building]]          | /                  | /                  |
