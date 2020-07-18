@@ -89,6 +89,7 @@ A list of package manager.
 | [[https://www.hamler-lang.org/][Hamler]] ([[https://github.com/hamler-lang/documentation/][Docs]])     | [[https://github.com/hamler-lang/hamler#installation][INSTALL]]           | hamler (Built-in)  | /                  |
 | [[https://www.reddit.com/r/Jai/][Jai]] ([[https://www.youtube.com/watch?v=uZgbKrDEzAs][1]]/[[https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md][2]]/[[https://www.dropbox.com/s/ti5tlxlnl239b5r/jai_basics.pdf][3]]/[[https://twitter.com/Jonathan_Blow][4]]/[[https://inductive.no/jai/][5]])   | /                 | /                  | [[https://repo.progsbase.com/repoviewer/][progsbase]]          |
 | [[https://www.mint-lang.com][Mint]]              | [[https://www.mint-lang.com/install][INSTALL]]           | /                  | [[https://www.mint-lang.com/packages][Packages]]           |
+| [[https://mun-lang.org/][Mun]] ([[https://docs.mun-lang.org][Docs]])        | [[https://github.com/mun-lang/mun/releases][Download]]          | /                  | /                  |
 | *[[https://nim-lang.org/docs/lib.html][Nim]]*             | [[choosenim][choosenim]]         | [[https://github.com/nim-lang/nimble][Nimble]]             | [[https://nim-lang.org/docs/lib.html][NimRepository]]      |
 | [[https://odin-lang.org/][Odin]] ([[https://github.com/odin-lang][GitHub]])     | [[https://odin-lang.org/downloads/][INSTALL]]           | /                  | [[https://github.com/odin-lang/odin-libs][odin-libs]]          |
 | *[[https://www.ponylang.io/][Pony]]* (‍[[https://opencollective.com/ponyc][❤]])        | [[https://github.com/ponylang/ponyc/blob/master/INSTALL.md][install]]/[[https://github.com/ponylang/ponyup][ponyup]]    | [[https://github.com/ponylang/corral][Corral]]/[[https://github.com/ponylang/pony-stable][pony-stable]] | [[https://www.main.actor/][main.actor]]/[[https://ponyhub.bali.io/][PonyHub]] |
@@ -98,7 +99,7 @@ A list of package manager.
 | [[https://vlang.io/][V]]                 | [[https://github.com/vlang/v#installing-v-from-source][building]]          | [[https://github.com/vlang/vpm][VPM]]                | [[https://vpm.vlang.io][vpm.best]]           |
 | [[https://github.com/microsoft/verona][Verona]]            | [[https://github.com/microsoft/verona/blob/master/docs/building.md][building]]          | /                  | /                  |
 | [[https://github.com/zetzit/zz][ZetZ]]              | [[https://github.com/zetzit/zz#quick-quick-start][quick-start]]       | /                  | [[https://github.com/zetzit/nursery][nursery]]            |
-| [[https://ziglang.org/][Zig]]               | [[https://ziglang.org/download/][Download]]          | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
+| *[[https://ziglang.org/][Zig]]*             | [[https://ziglang.org/download/][Download]]          | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
 
 ** Editor
