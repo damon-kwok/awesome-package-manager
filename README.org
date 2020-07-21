@@ -5,9 +5,10 @@
 #+OPTIONS: toc:nil creator:nil author:nil email:nil timestamp:nil html-postamble:nil
 #+TODO: TODO DOING DONE
 
-[[https://github.com/damon-kwok][https://awesome.re/badge-flat2.svg]]
+[[https://www.patreon.com/DamonKwok][https://awesome.re/badge-flat2.svg]]
 [[https://orgmode.org/][https://img.shields.io/badge/Made%20with-Orgmode-1f425f.svg]]
 [[https://github.com/damon-kwok/awesome-package-manager/blob/master/LICENSE][https://img.shields.io/badge/license-BSD%202%20Clause-2e8b57.svg]]
+[[https://www.patreon.com/DamonKwok][https://https://img.shields.io/badge/Support%20Me-%F0%9F%92%97-ff69b4.svg]]
 
 A list of package manager.
 
