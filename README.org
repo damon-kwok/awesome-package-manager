@@ -69,9 +69,7 @@ A list of package manager.
 | [[https://github.com/Frege/frege][Frege]] ([[http://www.frege-lang.org/doc/][doc]])       | [[http://get.frege-lang.org/][grt.frege]]         | [[https://hoogle.haskell.org/][Hoogle]] and [[http://maven.apache.org/download.cgi][Maven]]   | [[https://hoogle.haskell.org/][Stackage]][[http://search.maven.org/][Maven]]      |
 | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]         | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/kardianos/govendor][govendor]]   | [[https://pkg.go.dev/][GO.DEV]]/[[https://godoc.org/][GoDoc]]       |
 | [[http://www.groovy-lang.org/][Groovy]]            | [[https://sdkman.io/sdks#groovy][SDKMAN]]            | [[https://docs.gradle.org/current/userguide/groovy_plugin.html][Gradle]](Plugin)     | [[http://search.maven.org/][MavenRepository]]    |
-| [[hylang.org][Hy]]                | [[https://pypi.org/project/pip/][pip]]               | [[https://pypi.org/project/pip/][pip]]                | [[https://pypi.org][PyPI]]               |
 | [[https://www.idris-lang.org/][Idris]]             | [[https://www.idris-lang.org/download/][Cabal/Stack]]       | [[https://www.idris-lang.org/documentation/packages/][idris]] (Built-in)   | [[https://github.com/idris-lang/Idris-dev/wiki/Libraries][Libraries]]          |
-| *[[https://janet-lang.org/][Janet]]*           | [[https://janet-lang.org/introduction.html][install]]           | [[https://janet-lang.org/index.html][jpm]] (Built-in)     | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]         |
 | *[[https://julialang.org/][Julia]]*           | [[https://julialang.org/downloads/][Download]]          | [[https://pkg.julialang.org/][Pkg]] (Built-in)     | [[https://pkg.julialang.org/][JuliaRepository]]    |
 | [[https://kotlinlang.org/][Kotlin]]            | [[https://sdkman.io/sdks#java][SDKMAN]]            | [[http://maven.apache.org/download.cgi][Maven]]/[[https://gradle.org/][Gradle]]       | [[http://search.maven.org/][MavenRepository]]    |
 | [[https://nodejs.org/][Nodejs]]            | [[https://github.com/tj/n][n]]/[[https://github.com/creationix/nvm][nvm]]             | [[https://www.npmjs.com/][npm]]/[[https://classic.yarnpkg.com/en/docs/install][yarn]]           | [[https://www.npmjs.com/][NPMRepo]]/[[https://yarnpkg.com/en/packages][YarnRepo]]   |
@@ -84,7 +82,6 @@ A list of package manager.
 | *Language-IV*     | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
 | [[https://www.beeflang.org/][Beef]]              | [[https://www.beeflang.org/#releases][Releases]]          | /                  | /                  |
-| [[https://github.com/carp-lang/Carp][Carp]] ([[https://github.com/carp-lang/Carp/blob/master/docs/LanguageGuide.md][Guide]])      | [[Https://github.com/carp-lang/Carp/blob/master/docs/Install.md][INSTALL]]           | [[https://github.com/carpentry-org][Carpentry]]          | [[https://github.com/carp-lang/Carp/blob/master/docs/Libraries.md#core-modules][Core]] /[[https://github.com/carpentry-org][ Carpentry]]   |
 | *[[https://github.com/denoland/deno][Deno]]* ([[https://deno.land/manual][Manual]])   | [[https://github.com/denoland/deno_install][deno_install]]      | [[https://deno.land/std/manual.md#built-in-deno-utilities--commands][deno]] (Built-in)    | [[https://deno.land/x/][deno.land/x]]        |
 | [[https://github.com/PistonDevelopers/dyon][Dyon]] ([[http://www.piston.rs/dyon-tutorial/][Tutorial]])   | [[http://www.piston.rs/dyon-tutorial/getting-started.html][USAGE]]             | /                  | /                  |
 | [[https://github.com/moonad/Formality][Formality]] ([[https://github.com/moonad/Formality/blob/master/DOCUMENTATION.md][Docs]])  | [[https://github.com/moonad/Formality#installation][INSTALL]]           | npm                | /                  |
@@ -105,6 +102,26 @@ A list of package manager.
 | [[https://github.com/zetzit/zz][ZetZ]]              | [[https://github.com/zetzit/zz#quick-quick-start][quick-start]]       | /                  | [[https://github.com/zetzit/nursery][nursery]]            |
 | *[[https://ziglang.org/][Zig]]*             | [[https://ziglang.org/download/][Download]]          | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
+
+** LISP 
+|------------------+-------------+----------------+------------------|
+| *Clojure like*   | Installer   | PackageManager | PackageViewer    |
+|------------------+-------------+----------------+------------------|
+| *[[https://clojure.org/][Clojure]]* ([[https://clojuredocs.org/][Docs]]) | [[https://sdkman.io/sdks#leiningen][SDKMAN]]      | [[https://leiningen.org/][Leiningen]]      | [[https://clojars.org/][clojars]]          |
+| [[https://github.com/clojure/clojure-clr][Clojure-CLR]]      |             |                |                  |
+| [[https://clojurescript.org/][ClojureScript]]    | [[https://github.com/thheller/shadow-cljs][shadow-cljs]] | npm/yarn       | [[http://cljsjs.github.io/][CLJSJS]]           |
+| *[[https://janet-lang.org/][Janet]]*          | [[https://janet-lang.org/introduction.html][install]]     | [[https://janet-lang.org/index.html][jpm]] (Built-in) | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]       |
+| [[https://joker-lang.org/][Joker]]            | [[https://joker-lang.org/][INSTALL]]     |                |                  |
+| [[https://github.com/carp-lang/Carp][Carp]] ([[https://github.com/carp-lang/Carp/blob/master/docs/LanguageGuide.md][Guide]])     | [[Https://github.com/carp-lang/Carp/blob/master/docs/Install.md][INSTALL]]     | [[https://github.com/carpentry-org][Carpentry]]      | [[https://github.com/carp-lang/Carp/blob/master/docs/Libraries.md#core-modules][Core]] /[[https://github.com/carpentry-org][ Carpentry]] |
+| [[https://ferret-lang.org/][Ferret]]           | lein        |                |                  |
+| [[https://github.com/Toccata-Lang/toccata][Toccata]]          |             |                |                  |
+| [[https://github.com/clojerl/clojerl][Clojerl]]          | [[https://github.com/clojerl/clojerl][building]]    |                |                  |
+| [[https://github.com/lsevero/abclj][ArmedBearClojure]] |             |                |                  |
+| [[https://github.com/Gozala/wisp][Wisp]]             | npm         | npm/yarn       | /                |
+| [[hylang.org][Hy]]               | [[https://pypi.org/project/pip/][pip]]         | [[https://pypi.org/project/pip/][pip]]            | [[https://pypi.org][PyPI]]             |
+| [[https://github.com/timothypratley/rustly][Rustly]]           |             |                |                  |
+| [[https://github.com/ruricolist/cloture][Cloture]]          |             |                |                  |
+| [[https://github.com/joinr/clclojure][CLClojure]]        |             |                |                  |
 
 ** Editor
 | Name          | Installer    | PackageManager       | Repository             |
