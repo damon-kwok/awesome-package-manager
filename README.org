@@ -24,8 +24,6 @@ A list of package manager.
 | [[http://groups.umd.umich.edu/cis/course.des/cis400/cobol/cobol.html][COBOL]]             | [[https://open-cobol.sourceforge.io/][GnuCOBOL]]          | [[https://github.com/Avuxo/Necropolis][Necropolis]]         | [[https://github.com/Avuxo/Necropolis/tree/master/server/packages][Packages]]           |
 | [[http://www.cplusplus.com/][C++]] ([[https://github.com/AnthonyCalandra/modern-cpp-features][Features]])    | [[https://gcc.gnu.org/][GCC]] [[http://clang.llvm.org/][Clang]] [[https://www.visualstudio.com/downloads/][VS]]      | [[https://github.com/Microsoft/vcpkg][Vcpkg]] / [[https://conan.io/][Conan]]      | [[https://blogs.msdn.microsoft.com/vcblog/2016/09/19/vcpkg-a-tool-to-acquire-and-build-c-open-source-libraries-on-windows/][Libs]]/[[https://bintray.com/conan][Private]]&[[https://bintray.com/bincrafters/public-conan][Pub]]   |
 | [[https://www.fortran.com/][Fortran]]           | [[http://www.g95.org/][G95]] [[https://software.intel.com/en-us/parallel-studio-xe/choose-download][IFC]] [[http://simplyfortran.com/][S]] [[https://github.com/flang-compiler/f18][F18]] [[https://lfortran.org/][L]]   | [[http://packages.simplyfortran.com/client.html][Simply]]             | [[http://packages.simplyfortran.com/search/index.html][Packages]]           |
-| [[http://www-formal.stanford.edu/jmc/][Lisp]] ([[https://common-lisp.net/][CommonLisp]]) | [[https://github.com/roswell/roswell][Roswell]]           | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]]     | [[http://quickdocs.org/][QuickDocs]]          |
-| [[http://www-formal.stanford.edu/jmc/][Lisp]] ([[https://www.scheme.com/tspl4/][Scheme]])     | *[[https://github.com/cisco/ChezScheme/blob/master/BUILDING][Chez]]* [[https://www.gnu.org/software/guile/][Guile]] [[https://www.gnu.org/software/mit-scheme/][MIT]]  | [[https://akkuscm.org/][AKKU]] [[https://github.com/guenchi/Raven][Raven]]         | [[https://akkuscm.org/packages/][Packages]] [[http://ravensc.com/list][list]]      |
 | [[http://prolog.org/][Prolog]]            | [[http://gprolog.org/#download][GNU]] [[https://www.swi-prolog.org/download][SWI]] [[https://riptutorial.com/prolog][more...]]   | [[https://www.swi-prolog.org/pldoc/doc/_SWI_/library/prolog_pack.pl][pack.pl]] [[https://github.com/wouterbeek/ppm][PPM]]        | [[https://www.swi-prolog.org/pack/list][Pcakages]]           |
 | [[http://www.smalltalk.org/][Smalltalk]]         | [[http://pharo.org/download][Pharo]]             | [[https://github.com/hernanmd/pi][PI]]                 | [[http://www.smalltalkhub.com/][SmalltalkHub]]       |
 | [[http://sml-family.org/Basis/][SML]]               | [[http://smlnj.org/][smlnj]]             | [[https://github.com/standardml/smackage][smackage]]           | [[http://sml-family.org/Basis/][SML-Basis-Library]]  |
@@ -51,14 +49,11 @@ A list of package manager.
 | [[https://www.python.org/][Python]]([[https://www.pypy.org/][PyPy]])      | [[https://github.com/pyenv/pyenv][pyenv]]             | [[https://github.com/sdispater/poetry][Poetry]]/[[https://docs.pipenv.org/][Pipenv]]      | [[https://pypi.org][PyPI]]               |
 | [[http://php.net/][PHP]]               | [[https://github.com/phpbrew/phpbrew/][phpbrew]]/[[https://github.com/phpenv/phpenv][phpenv]]    | [[https://getcomposer.org][Composer]]/[[http://eirt.science/xpm/][XPM]]       | [[https://packagist.org/][Packagist]]          |
 | [[https://www.qt.io/][QT]]                | [[https://www.qt.io/download][Download]]          | [[https://inqlude.org/get.html][inqlude]]            | [[https://inqlude.org/][#inqlude]]           |
-| *[[http://racket-lang.org/][Racket]]*          | [[http://download.racket-lang.org/][Download]]          | [[https://docs.racket-lang.org/raco/][raco]]               | [[http://pkgs.racket-lang.org/][Racket Packages]]    |
 | [[https://raku.org/][Raku]] ([[https://raku.guide/][Guide]])      | [[https://raku.org/downloads/][Download]]          | [[https://raku.guide/#_raku_modules][zef]] (Built-in)     | [[https://modules.raku.org/][Modules]]            |
 | [[https://www.ruby-lang.org/][Ruby]]              | [[https://github.com/rbenv/rbenv][rbenv]]/[[https://github.com/rvm/rvm][rvm]]         | [[https://bundler.io/][Bundler]]            | [[https://rubygems.org/][Rubygems Repo]]      |
 |-------------------+-------------------+--------------------+--------------------|
 | *Language-III*    | Installer         | PackageManager     | PackageViewer      |
 |-------------------+-------------------+--------------------+--------------------|
-| *[[https://clojure.org/][Clojure]]*         | [[https://sdkman.io/sdks#leiningen][SDKMAN]]            | [[https://leiningen.org/][Leiningen]]          | [[https://clojars.org/][clojars]]            |
-| [[https://clojurescript.org/][ClojureScript]]     | [[https://github.com/thheller/shadow-cljs][shadow-cljs]]       | npm/yarn           | [[http://cljsjs.github.io/][CLJSJS]]             |
 | [[https://crystal-lang.org/][Crystal]]           | [[https://crystal-lang.org/docs/installation/][Download]]          | [[https://github.com/crystal-lang/shards][Shards]]             | [[https://crystalshards.herokuapp.com/][Crystalshards]]      |
 | [[https://www.dartlang.org][Dart]]              | [[https://www.dartlang.org/install][Download]]          | [[https://www.dartlang.org/tools/pub][Pub]]                | [[https://pub.dartlang.org/][DarkPackages]]       |
 | [[https://elixir-lang.org/install.html][Elixir]]            | [[https://elixir-lang.org/install.html][Download]]          | [[https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html][Mix]] (Built-in)     | [[https://hex.pm/][HexRepository]]      |
@@ -103,25 +98,37 @@ A list of package manager.
 | *[[https://ziglang.org/][Zig]]*             | [[https://ziglang.org/download/][Download]]          | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
 
-** LISP 
-|------------------+-------------+----------------+------------------|
-| *Clojure like*   | Installer   | PackageManager | PackageViewer    |
-|------------------+-------------+----------------+------------------|
-| *[[https://clojure.org/][Clojure]]* ([[https://clojuredocs.org/][Docs]]) | [[https://sdkman.io/sdks#leiningen][SDKMAN]]      | [[https://leiningen.org/][Leiningen]]      | [[https://clojars.org/][clojars]]          |
-| [[https://github.com/clojure/clojure-clr][Clojure-CLR]]      |             |                |                  |
-| [[https://clojurescript.org/][ClojureScript]]    | [[https://github.com/thheller/shadow-cljs][shadow-cljs]] | npm/yarn       | [[http://cljsjs.github.io/][CLJSJS]]           |
-| *[[https://janet-lang.org/][Janet]]*          | [[https://janet-lang.org/introduction.html][install]]     | [[https://janet-lang.org/index.html][jpm]] (Built-in) | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]       |
-| [[https://joker-lang.org/][Joker]]            | [[https://joker-lang.org/][INSTALL]]     |                |                  |
-| [[https://github.com/carp-lang/Carp][Carp]] ([[https://github.com/carp-lang/Carp/blob/master/docs/LanguageGuide.md][Guide]])     | [[Https://github.com/carp-lang/Carp/blob/master/docs/Install.md][INSTALL]]     | [[https://github.com/carpentry-org][Carpentry]]      | [[https://github.com/carp-lang/Carp/blob/master/docs/Libraries.md#core-modules][Core]] /[[https://github.com/carpentry-org][ Carpentry]] |
-| [[https://ferret-lang.org/][Ferret]]           | lein        |                |                  |
-| [[https://github.com/Toccata-Lang/toccata][Toccata]]          |             |                |                  |
-| [[https://github.com/clojerl/clojerl][Clojerl]]          | [[https://github.com/clojerl/clojerl][building]]    |                |                  |
-| [[https://github.com/lsevero/abclj][ArmedBearClojure]] |             |                |                  |
-| [[https://github.com/Gozala/wisp][Wisp]]             | npm         | npm/yarn       | /                |
-| [[hylang.org][Hy]]               | [[https://pypi.org/project/pip/][pip]]         | [[https://pypi.org/project/pip/][pip]]            | [[https://pypi.org][PyPI]]             |
-| [[https://github.com/timothypratley/rustly][Rustly]]           |             |                |                  |
-| [[https://github.com/ruricolist/cloture][Cloture]]          |             |                |                  |
-| [[https://github.com/joinr/clclojure][CLClojure]]        |             |                |                  |
+** LISP
+   |-----------------------+-----------------------------------------------------------------------------+------------------+----------------+------------------|
+   | *LISP-1*              | Active                                                                      | Installer        | PackageManager | PackageViewer    |
+   |-----------------------+-----------------------------------------------------------------------------+------------------+----------------+------------------|
+   | [[http://www-formal.stanford.edu/jmc/][Lisp]] ([[https://www.scheme.com/tspl4/][Scheme]])         |                                                                             | *[[https://github.com/cisco/ChezScheme/blob/master/BUILDING][Chez]]* [[https://www.gnu.org/software/guile/][Guile]] [[https://www.gnu.org/software/mit-scheme/][MIT]] | [[https://akkuscm.org/][AKKU]] [[https://github.com/guenchi/Raven][Raven]]     | [[https://akkuscm.org/packages/][Packages]] [[http://ravensc.com/list][list]]    |
+   | *[[http://racket-lang.org/][Racket]]*              |                                                                             | [[http://download.racket-lang.org/][Download]]         | [[https://docs.racket-lang.org/raco/][raco]]           | [[http://pkgs.racket-lang.org/][Racket Packages]]  |
+   | [[http://joxa.org/][Joxa]]                  |                                                                             |                  |                |                  |
+   | [[https://gamelisp.rs/][GameLisp]]              | [[https://gamelisp.rs/][https://img.shields.io/github/last-commit/fleabitdev/glsp?logo=GameLisp.svg]] | [[https://crates.io/crates/glsp/][crate]]            |                |                  |
+   |-----------------------+-----------------------------------------------------------------------------+------------------+----------------+------------------|
+   | *LISP-2*              |                                                                             | Installer        | PackageManager | PackageViewer    |
+   |-----------------------+-----------------------------------------------------------------------------+------------------+----------------+------------------|
+   | [[http://www-formal.stanford.edu/jmc/][Lisp]] ([[https://common-lisp.net/][CommonLisp]])     |                                                                             | [[https://github.com/roswell/roswell][Roswell]]          | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]] | [[http://quickdocs.org/][QuickDocs]]        |
+   | [[https://lfe.io/][LFE]]                   |                                                                             |                  |                |                  |
+   |-----------------------+-----------------------------------------------------------------------------+------------------+----------------+------------------|
+   | *Clojure like*        |                                                                             | Installer        | PackageManager | PackageViewer    |
+   |-----------------------+-----------------------------------------------------------------------------+------------------+----------------+------------------|
+   | *[[https://clojure.org/][Clojure]]* ([[https://clojuredocs.org/][Docs]])      |                                                                             | [[https://sdkman.io/sdks#leiningen][SDKMAN]]           | [[https://leiningen.org/][Leiningen]]      | [[https://clojars.org/][clojars]]          |
+   | [[https://github.com/clojure/clojure-clr][Clojure-CLR]] ([[https://arcadia-unity.github.io/][Arcadia]]) |                                                                             |                  |                |                  |
+   | [[https://clojurescript.org/][ClojureScript]]         |                                                                             | [[https://github.com/thheller/shadow-cljs][shadow-cljs]]      | npm/yarn       | [[http://cljsjs.github.io/][CLJSJS]]           |
+   | *[[https://janet-lang.org/][Janet]]*               |                                                                             | [[https://janet-lang.org/introduction.html][install]]          | [[https://janet-lang.org/index.html][jpm]] (Built-in) | [[https://github.com/janet-lang/pkgs/blob/master/pkgs.janet][pkgs.janet]]       |
+   | [[https://joker-lang.org/][Joker]]                 |                                                                             | [[https://joker-lang.org/][INSTALL]]          |                |                  |
+   | [[https://github.com/carp-lang/Carp][Carp]] ([[https://github.com/carp-lang/Carp/blob/master/docs/LanguageGuide.md][Guide]])          |                                                                             | [[Https://github.com/carp-lang/Carp/blob/master/docs/Install.md][INSTALL]]          | [[https://github.com/carpentry-org][Carpentry]]      | [[https://github.com/carp-lang/Carp/blob/master/docs/Libraries.md#core-modules][Core]] /[[https://github.com/carpentry-org][ Carpentry]] |
+   | [[https://ferret-lang.org/][Ferret]]                |                                                                             | lein             |                |                  |
+   | [[https://github.com/Toccata-Lang/toccata][Toccata]]               |                                                                             |                  |                |                  |
+   | [[https://github.com/clojerl/clojerl][Clojerl]]               |                                                                             | [[https://github.com/clojerl/clojerl][building]]         |                |                  |
+   | [[https://github.com/lsevero/abclj][ArmedBearClojure]]      |                                                                             |                  |                |                  |
+   | [[https://github.com/Gozala/wisp][Wisp]]                  |                                                                             | npm              | npm/yarn       | /                |
+   | [[hylang.org][Hy]]                    |                                                                             | [[https://pypi.org/project/pip/][pip]]              | [[https://pypi.org/project/pip/][pip]]            | [[https://pypi.org][PyPI]]             |
+   | [[https://github.com/timothypratley/rustly][Rustly]]                |                                                                             |                  |                |                  |
+   | [[https://github.com/ruricolist/cloture][Cloture]]               |                                                                             |                  |                |                  |
+   | [[https://github.com/joinr/clclojure][CLClojure]]             |                                                                             |                  |                |                  |
 
 ** Editor
 | Name          | Installer    | PackageManager       | Repository             |
