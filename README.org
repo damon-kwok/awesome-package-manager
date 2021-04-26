@@ -98,7 +98,7 @@ A list of package manager.
 | *[[https://ziglang.org/][Zig]]*             | [[https://ziglang.org/download/][Download]]          | [[https://github.com/ziglang/zig/issues/943][talking..]]          | /                  |
 # | *[[https://golang.org/][Go]]*              | [[https://github.com/travis-ci/gimme][gimme]]/[[https://github.com/moovweb/gvm][gvm]]      | [[https://github.com/golang/dep][dep]]/[[https://github.com/golang/vgo][vgo]]/[[https://github.com/niemeyer/gopkg][gopkg]]/[[https://melody.sh/docs/howto/install/][Melody]] | git/[[https://melody.sh/repo/][melodyRepo]]     |
 
-** [[http://www-formal.stanford.edu/jmc/][LISP]]
+** [[http://www-formal.stanford.edu/jmc/][CommonLisp]]
    |---------------------------------+-----------------------------------------------------------------------+-----------+----------------+---------------|
    | *[[https://common-lisp.net/][CommonLisp]]* ([[https://github.com/usocket/usocket][uscoket]])          | Activity                                                              | Installer | PackageManager | PackageViewer |
    |---------------------------------+-----------------------------------------------------------------------+-----------+----------------+---------------|
@@ -119,7 +119,7 @@ A list of package manager.
    | [[https://www.scieneer.com/scl/][Scieneer CL]] ([[https://lisphub.jp/doc/scl/][Doc]])               | /                                                                     |           |                |               |
    | [[http://smbx.org/][Symbolics Lisp Machine (Genera)]] |                                                                       |           |                |               |
 
-   
+** Scheme 
    |---------------------+------------------------------------------------------------------------+-----------+----------------+-----------------|
    | *[[https://www.scheme.com/tspl4/][Scheme]]*            | Activity                                                               | Installer | PackageManager | PackageViewer   |
    |---------------------+------------------------------------------------------------------------+-----------+----------------+-----------------|
@@ -132,9 +132,9 @@ A list of package manager.
    | [[https://www.gnu.org/software/guile/][GNU Guile]]           | [[https://github.com/texmacs/guile][https://img.shields.io/github/last-commit/texmacs/guile.svg]]            | [[https://www.gnu.org/software/guile/download/][Download]]  | [[https://akkuscm.org/][AKKU]] [[https://github.com/guenchi/Raven][Raven]]     | [[https://akkuscm.org/packages/][Packages]] [[http://ravensc.com/list][list]]   |
    | [[https://ryansuchocki.github.io/microscheme/][MicroScheme]]         | [[https://github.com/ryansuchocki/microscheme][https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg]] | [[https://ryansuchocki.github.io/microscheme/download][Download]]  |                |                 |
 
-   
+** Clojure Like
    |-------------------------+---------------------------------------------------------------------+-------------+----------------+------------------|
-   | *Clojure like*          | Activity                                                            | Installer   | PackageManager | PackageViewer    |
+   | *Clojure Like* ([[https://github.com/bbatsov/clojure-style-guide][STYLE]])  | Activity                                                            | Installer   | PackageManager | PackageViewer    |
    |-------------------------+---------------------------------------------------------------------+-------------+----------------+------------------|
    | *[[https://clojure.org/][Clojure]]* ([[https://clojuredocs.org/][Docs]]) ([[https://github.com/clojure-link/link][link]]) | [[https://github.com/clojure/clojure][https://img.shields.io/github/last-commit/clojure/clojure.svg]]       | [[https://sdkman.io/sdks#leiningen][SDKMAN]]      | [[https://leiningen.org/][Leiningen]]      | [[https://clojars.org/][clojars]]          |
    | [[https://github.com/clojure/clojure-clr][Clojure-CLR]]             | [[https://github.com/clojure/clojure-clr][https://img.shields.io/github/last-commit/clojure/clojure-clr.svg]]   |             |                |                  |
@@ -156,7 +156,7 @@ A list of package manager.
    | [[https://github.com/joinr/clclojure][CLClojure]]               | [[https://github.com/joinr/clclojure][https://img.shields.io/github/last-commit/joinr/clclojure.svg]]       |             |                |                  |
    | [[https://github.com/Gozala/wisp][Wisp]]                    | [[https://github.com/wisp-lang/wisp][https://img.shields.io/github/last-commit/wisp-lang/wisp.svg]]        | npm         | npm/yarn       | /                |
 
-   
+** Lisp-1
    |----------+---------------------------------------------------------------+-----------+----------------+-----------------|
    | *LISP-1* | Activity                                                      | Installer | PackageManager | PackageViewer   |
    |----------+---------------------------------------------------------------+-----------+----------------+-----------------|
@@ -165,12 +165,11 @@ A list of package manager.
    | [[http://joxa.org/][Joxa]]     | [[https://github.com/joxa/joxa][https://img.shields.io/github/last-commit/joxa/joxa.svg]]       |           |                |                 |
    | [[https://gamelisp.rs/][GameLisp]] | [[https://github.com/fleabitdev/glsp/][https://img.shields.io/github/last-commit/fleabitdev/glsp.svg]] | [[https://crates.io/crates/glsp/][crate]]     |                |                 |
 
-   
+** Lisp-2
    |----------+-------------------------------------------------------+-----------+----------------+---------------|
    | *LISP-2* |                                                       | Installer | PackageManager | PackageViewer |
    |----------+-------------------------------------------------------+-----------+----------------+---------------|
    | [[https://lfe.io/][LFE]]      | [[https://github.com/lfe/lfe][https://img.shields.io/github/last-commit/lfe/lfe.svg]] |           |                |               |
-
 
 ** Editor
 | Name          | Installer    | PackageManager       | Repository             |
