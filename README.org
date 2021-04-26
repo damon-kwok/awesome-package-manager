@@ -107,18 +107,20 @@ A list of package manager.
    | [[https://github.com/clasp-developers/clasp][CLasp]]                           | [[https://github.com/clasp-developers/clasp][https://img.shields.io/github/last-commit/clasp-developers/clasp.svg]]  |           |                |               |
    | [[https://abcl.org/][ABCL]]                            | [[https://github.com/armedbear/abcl][https://img.shields.io/github/last-commit/armedbear/abcl.svg]]          |           |                |               |
    | [[http://www.gnu.org/software/clisp/][GNU CLISP]]                       | [[https://github.com/roswell/clisp][https://img.shields.io/github/last-commit/roswell/clisp.svg]]           |           |                |               |
-   | [[https://github.com/sharplispers/cormanlisp][Corman Lisp]]                     | [[https://github.com/sharplispers/cormanlisp][https://img.shields.io/github/last-commit/sharplispers/cormanlisp.svg]] |           |                |               |
-   # | [[https://cmucl.org/][CMUCL]]                           | [[https://gitlab.common-lisp.net/cmucl/cmucl/-/tree/master][https://img.shields.io/gitlab/last-commit/cmucl/cmucl.svg]]             |           |                |               |
-   # | [[https://common-lisp.net/project/ecl/][ECL]]                             | [[https://gitlab.com/embeddable-common-lisp/ecl][https://badgen.net/gitlab/last-commit/embeddable-common-lisp/ecl?.svg]] |           |                |               |
+   | [[https://github.com/sharplispers/cormanlisp][Corman Lisp]]                     | [[https://github.com/sharplispers/cormanlisp][https://img.shields.io/github/last-commit/sharplispers/cormanlisp.svg]] |           |                |               ||
    | [[https://github.com/binghe/mcl][MCL]]                             | [[https://github.com/binghe/mcl][https://img.shields.io/github/last-commit/binghe/mcl.svg]]              |           |                |               |
-   | [[https://common-lisp.net/project/mkcl/][MKCL]]                            | [[https://gitlab.com/owl-lisp/owl][https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg]]               |           |                |               |
    | [[https://github.com/froggey/Mezzano][Mezzano]]                         | [[https://github.com/froggey/Mezzano][https://img.shields.io/github/last-commit/froggey/Mezzano.svg]]         |           |                |               |
+   | [[https://common-lisp.net/project/mkcl/][MKCL]]                            | [[https://gitlab.com/owl-lisp/owl][https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg]]               |           |                |               |
+   | [[http://www.lispworks.com/][LispWorks]]                       | /                                                                     |           |                |               |
+   | [[https://franz.com/products/allegrocl/][Allegro CL]]                      | /                                                                     | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]] | [[http://quickdocs.org/][QuickDocs]]     |
    | [[https://wukix.com/mocl][MOCL]]                            | /                                                                     |           |                |               |
    | [[https://www.scieneer.com/scl/][Scieneer CL]] ([[https://lisphub.jp/doc/scl/][Doc]])               | /                                                                     |           |                |               |
    | [[http://smbx.org/][Symbolics Lisp Machine (Genera)]] |                                                                       |           |                |               |
-   | [[https://franz.com/products/allegrocl/][Allegro CL]]                      | /                                                                     | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]] | [[http://quickdocs.org/][QuickDocs]]     |
-   | [[http://www.lispworks.com/][LispWorks]]                       | /                                                                     |           |                |               |
+   # | [[https://cmucl.org/][CMUCL]]                           | [[https://gitlab.common-lisp.net/cmucl/cmucl/-/tree/master][https://img.shields.io/gitlab/last-commit/cmucl/cmucl.svg]]             |           |                |               |
+   # | [[https://common-lisp.net/project/ecl/][ECL]]                             | [[https://gitlab.com/embeddable-common-lisp/ecl][https://badgen.net/gitlab/last-commit/embeddable-common-lisp/ecl?.svg]] |           |                |               
 
+
+   
    |---------------------+------------------------------------------------------------------------+-----------+----------------+-----------------|
    | *[[https://www.scheme.com/tspl4/][Scheme]]*            | Activity                                                               | Installer | PackageManager | PackageViewer   |
    |---------------------+------------------------------------------------------------------------+-----------+----------------+-----------------|
@@ -131,6 +133,7 @@ A list of package manager.
    | [[https://ryansuchocki.github.io/microscheme/][MicroScheme]]         | [[https://github.com/ryansuchocki/microscheme][https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg]] | [[https://ryansuchocki.github.io/microscheme/download][Download]]  |                |                 |
    | [[https://gitlab.com/owl-lisp/owl][Owl Lisp]]            | [[https://gitlab.com/owl-lisp/owl][https://img.shields.io/gitlab/last-commit/owl-lisp/owl.svg]]             |           |                |                 |
 
+   
    |-------------------------+---------------------------------------------------------------------+-------------+----------------+------------------|
    | *Clojure like*          | Activity                                                            | Installer   | PackageManager | PackageViewer    |
    |-------------------------+---------------------------------------------------------------------+-------------+----------------+------------------|
@@ -150,6 +153,7 @@ A list of package manager.
    | [[https://github.com/joinr/clclojure][CLClojure]]               | [[https://github.com/joinr/clclojure][https://img.shields.io/github/last-commit/joinr/clclojure.svg]]       |             |                |                  |
    | [[https://github.com/Gozala/wisp][Wisp]]                    | [[https://github.com/wisp-lang/wisp][https://img.shields.io/github/last-commit/wisp-lang/wisp.svg]]        | npm         | npm/yarn       | /                |
 
+   
    |----------+---------------------------------------------------------------+-----------+----------------+-----------------|
    | *LISP-1* | Activity                                                      | Installer | PackageManager | PackageViewer   |
    |----------+---------------------------------------------------------------+-----------+----------------+-----------------|
@@ -158,6 +162,7 @@ A list of package manager.
    | [[http://joxa.org/][Joxa]]     | [[https://github.com/joxa/joxa][https://img.shields.io/github/last-commit/joxa/joxa.svg]]       |           |                |                 |
    | [[https://gamelisp.rs/][GameLisp]] | [[https://github.com/fleabitdev/glsp/][https://img.shields.io/github/last-commit/fleabitdev/glsp.svg]] | [[https://crates.io/crates/glsp/][crate]]     |                |                 |
 
+   
    |----------+-------------------------------------------------------+-----------+----------------+---------------|
    | *LISP-2* |                                                       | Installer | PackageManager | PackageViewer |
    |----------+-------------------------------------------------------+-----------+----------------+---------------|
