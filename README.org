@@ -124,6 +124,7 @@ A list of package manager.
    | [[https://github.com/froggey/Mezzano][Mezzano]]                         | [[https://github.com/froggey/Mezzano][https://img.shields.io/github/last-commit/froggey/Mezzano.svg]]         | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]] | [[http://quickdocs.org/][QuickDocs]]     |
    | [[https://github.com/sharplispers/cormanlisp][Corman Lisp]]                     | [[https://github.com/sharplispers/cormanlisp][https://img.shields.io/github/last-commit/sharplispers/cormanlisp.svg]] | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]] | [[http://quickdocs.org/][QuickDocs]]     |
    | [[https://github.com/binghe/mcl][MCL]]                             | [[https://github.com/binghe/mcl][https://img.shields.io/github/last-commit/binghe/mcl.svg]]              | [[https://github.com/roswell/roswell][Roswell]]   | [[https://www.quicklisp.org/][Quicklisp]]/[[https://github.com/fukamachi/qlot][Qlot]] | [[http://quickdocs.org/][QuickDocs]]     |
+   | [[https://wikimili.com/en/Mocl][Mocl]]                            | /                                                                     | /         | /              | /             |
    | *[[https://github.com/vygr/ChrysaLisp][ChrysaLisp]]*                    | [[https://github.com/vygr/ChrysaLisp][https://img.shields.io/github/last-commit/vygr/ChrysaLisp.svg]]         | /         | /              | /             |
    | * [[https://github.com/whily/yalo][Yalo]] OS*                      | [[https://github.com/whily/yalo][https://img.shields.io/github/last-commit/whily/yalo.svg]]              | /         | /              | /             |
    | [[https://picolisp.com/wiki/?home][PicoLisp]] (*[[https://picolisp.com/wiki/?PilOS][PilOS]]*)              | [[https://github.com/picolisp/picolisp][https://img.shields.io/github/last-commit/picolisp/picolisp.svg]]       | /         | /              | /             |
@@ -204,7 +205,6 @@ A list of package manager.
    | *LISP-2* |                                                       | Installer | PackageManager | PackageViewer |
    |----------+-------------------------------------------------------+-----------+----------------+---------------|
    | [[https://lfe.io/][LFE]]      | [[https://github.com/lfe/lfe][https://img.shields.io/github/last-commit/lfe/lfe.svg]] |           |                |               |
-   | [[https://wikimili.com/en/Mocl][Mocl]]     | /                                                     | /         | /              | /             |
 
 ** Editor
 | Name          | Activity                                                                  | Installer    | PackageManager       | Repository             |
