@@ -242,6 +242,7 @@ A list of package manager.
 | *[[http://www.vim.org/][Vim]]*         | [[https://github.com/vim/vim][https://img.shields.io/github/last-commit/vim/vim.svg]]                     | [[https://vim.sourceforge.io/download.php][Download]]     | [[https://github.com/VundleVim/Vundle.Vim][Vundle.vim]] [[https://github.com/junegunn/vim-plug][vim-plug]]  | [[https://vim.sourceforge.io/search.php][Search-for-Vim-Script]]  |
 | [[https://github.com/xi-editor/xi-editor][XiEditor]]      | [[https://github.com/xi-editor/xi-editor][https://img.shields.io/github/last-commit/xi-editor/xi-editor.svg]]         | [[https://github.com/xi-editor/xi-editor#frontends][Frontends]]    | /                    | /                      |
 | [[https://developer.apple.com/xcode/][Xcode]]         | /                                                                         | [[https://developer.apple.com/xcode/][Download]]     | [[https://github.com/alcatraz/Alcatraz][Alcatraz]]             | [[https://github.com/alcatraz/alcatraz-packages][AlcatrazPackages]]       |
+| [[https://zed.dev/][Zed]]           | [[https://github.com/zed-industries/feedback][https://img.shields.io/github/last-commit/zed-industries/feedback.svg]]     | /            | /                    | /                      |
 
 ** OS
 | Name            | Installer | PackageManager    | Repository          |
