@@ -271,8 +271,9 @@ A list of package manager.
 | [[http://www.ros.org/][ROS]]             | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS-Repository]]      |
 | [[https://solus-project.com/][Solus]]           | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]            |
 | [[https://improbable.io/games][SpatialOS]]       | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                |
-| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://chocolatey.org/][Choco]]) | [[https://www.microsoft.com/en-us/software-download/windows10ISO][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]  |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://chocolatey.org/][Choco]]) | [[https://chocolatey.org/install][Download]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]  |
 | [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://scoop.sh/][Scoop]]) | [[https://scoop.sh/][Install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]         |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://learn.microsoft.com/en-us/windows/package-manager/][Windows Package Manager]]) | [[https://github.com/microsoft/winget-cli#installing-the-client][Install]]   | [[https://github.com/microsoft/winget-cli][winget-cli]]             | [[https://github.com/microsoft/winget-pkgs][winget-pkgs]] ([[https://winget.run/][winget.run]])        |
 | [[https://github.com/epitron/upm#package-tools-to-wrap][Universal]]       | /         | [[https://github.com/epitron/upm][upm]]               | None                |
 
 ** Other
