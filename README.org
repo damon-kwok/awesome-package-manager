@@ -281,6 +281,7 @@ A list of package manager.
 |---------------+-----------+-------------------+-------------|
 | *[[https://tiswww.case.edu/php/chet/bash/bashtop.html][Bash-it]]*     | [[https://github.com/Bash-it/bash-it][Install]]   | bash-it           | [[https://github.com/Bash-it/bash-it/wiki/Themes][Themes]]      |
 | *[[http://www.zsh.org/][Oh-my-zsh]]*   | [[https://github.com/robbyrussell/oh-my-zsh][Install]]   | [[http://antigen.sharats.me/][Antigen]]           | [[https://github.com/unixorn/awesome-zsh-plugins#plugins][Plugins]]     |
+| [[https://kdeldycke.github.io/meta-package-manager/falsehoods.html][Falsehoods programmers believe about package managers]]           | None      | None       | None   |
 | IoT           | None      | [[http://platformio.org/][PlatformaIO]]       | [[http://platformio.org/lib][Libraries]]   |
 | [[https://nanobox.io/][Nanobox]]       | [[https://nanobox.io/pricing/][Buy]]       | nanobox(Built-in) | None        |
 | [[https://puppet.com/][Puppet]]        | [[https://puppet.com/download-puppet-enterprise][Download]]  | [[https://forge.puppet.com/][Forge]](Built-in)   | [[https://forge.puppet.com/][PuppetForge]] |
