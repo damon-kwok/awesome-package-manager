@@ -253,29 +253,32 @@ A list of package manager.
 | [[https://zed.dev/][Zed]]           | [[https://github.com/zed-industries/feedback][https://img.shields.io/github/last-commit/zed-industries/feedback.svg]]     | /            | /                    | /                      |
 
 ** OS
-| Name            | Installer | PackageManager    | Repository          |
-|-----------------+-----------+-------------------+---------------------|
-| [[https://www.android.com/][Android]]         | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][GooglePlay]]          |
-| [[https://www.chromium.org/chromium-os][ChromeOS]]        | [[https://www.chromium.org/chromium-os][Download]]  | [[https://github.com/skycocker/chromebrew][chromebrew]]        | [[https://github.com/skycocker/chromebrew/tree/master/packages][packages]]            |
-| cross-platform  | /         | [[https://gofi.sh/#install][GoFish]]            | /                   |
-| Cluster         | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][PackageRepo]]         |
-| [[https://www.cygwin.com/][Cygwin]]          | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][CygwinPackageSearch]] |
-| *[[https://www.docker.com][Docker]]*        | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][DockerHub]]           |
-| [[https://www.gnu.org/software/guix/][GNU Guix]]        | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]            |
-| [[https://kubernetes.io/][Kubernetes]]      | [[https://kubernetes.io/docs/tasks/tools/install-kubectl/][Install]]   | [[https://helm.sh/][Helm]]              | [[https://hub.docker.com/][DockerHub]]           |
-| [[https://www.kernel.org/][Linux]]           | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]            |
-| [[https://www.tecmint.com/best-linux-desktop-environments/][LinuxDesktop]]    | /         | [[https://snapcraft.io/][SnapCraft]]         | [[https://snapcraft.io/store][Store]]               |
-| [[https://developer.apple.com/macos/][macOS]]           | [[https://brew.sh/][Install]]   | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]            |
-| [[http://www.msys2.org/][MSYS2]]           | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://packages.msys2.org/search][MSYS2-packages]]      |
-| [[https://nixos.org/][NixOS]]           | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][NixPackages]]         |
-| [[http://node-os.com/][NodeOS]]          | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPMRepository]]       |
-| [[http://www.ros.org/][ROS]]             | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS-Repository]]      |
-| [[https://solus-project.com/][Solus]]           | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]            |
-| [[https://improbable.io/games][SpatialOS]]       | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                |
-| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://chocolatey.org/][Choco]]) | [[https://chocolatey.org/install][Install]]  | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]  |
-| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://scoop.sh/][Scoop]]) | [[https://scoop.sh/][Install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]         |
-| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://learn.microsoft.com/en-us/windows/package-manager/][Windows Package Manager]]) | [[https://github.com/microsoft/winget-cli#installing-the-client][Install]]   | [[https://github.com/microsoft/winget-cli][winget-cli]]             | [[https://github.com/microsoft/winget-pkgs][winget-pkgs]] ([[https://winget.run/][winget.run]])        |
-| [[https://github.com/epitron/upm#package-tools-to-wrap][Universal]]       | /         | [[https://github.com/epitron/upm][upm]]               | None                |
+| Name                              | Installer | PackageManager    | Repository               |
+|-----------------------------------+-----------+-------------------+--------------------------|
+| [[https://www.android.com/][Android]]                           | [[https://source.android.com/setup/downloading][Download]]  | None              | [[https://play.google.com/store][GooglePlay]]               |
+| [[https://www.chromium.org/chromium-os][ChromeOS]]                          | [[https://www.chromium.org/chromium-os][Download]]  | [[https://github.com/skycocker/chromebrew][chromebrew]]        | [[https://github.com/skycocker/chromebrew/tree/master/packages][packages]]                 |
+| Arch/Artix                        | [[https://github.com/trizen/trizen][INSTALL]]   | [[https://github.com/trizen/trizen/blob/master/TRIZEN.md][Trizen]]            | [[https://aur.archlinux.org/][AUR]]                      |
+| cross-platform                    | /         | [[https://gofi.sh/#install][GoFish]]            | /                        |
+| Cluster                           | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][PackageRepo]]              |
+| [[https://www.cygwin.com/][Cygwin]]                            | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][CygwinPackageSearch]]      |
+| *[[https://www.docker.com][Docker]]*                          | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][DockerHub]]                |
+| Debian / Ubuntu                   | [[https://github.com/pacstall/pacstall#installing][Install]]   | [[https://pacstall.dev/][Pacstall]]          | [[https://pacstall.dev/packages][Packages]]                 |
+| Ubuntu                            | /         | [[https://launchpad.net/ubuntu/+ppas][PPA]]               | [[https://launchpad.net/ubuntu/+ppas][ppas]]                     |
+| [[https://www.gnu.org/software/guix/][GNU Guix]]                          | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]                 |
+| [[https://kubernetes.io/][Kubernetes]]                        | [[https://kubernetes.io/docs/tasks/tools/install-kubectl/][Install]]   | [[https://helm.sh/][Helm]]              | [[https://hub.docker.com/][DockerHub]]                |
+| [[https://www.kernel.org/][Linux]]                             | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]                 |
+| [[https://www.tecmint.com/best-linux-desktop-environments/][LinuxDesktop]]                      | /         | [[https://snapcraft.io/][SnapCraft]]         | [[https://snapcraft.io/store][Store]]                    |
+| [[https://developer.apple.com/macos/][macOS]]                             | [[https://brew.sh/][Install]]   | [[https://brew.sh/][Homebrew]]          | [[http://formulae.brew.sh/][Formulae]]                 |
+| [[http://www.msys2.org/][MSYS2]]                             | [[http://www.msys2.org/][Download]]  | pacman(Built-in)  | [[https://packages.msys2.org/search][MSYS2-packages]]           |
+| [[https://nixos.org/][NixOS]]                             | [[https://nixos.org/nixos/download.html][Download]]  | [[https://nixos.org/nix/][Nix]]               | [[https://nixos.org/nixpkgs/][NixPackages]]              |
+| [[http://node-os.com/][NodeOS]]                            | [[https://github.com/NodeOS/NodeOS/releases][Download]]  | NPM(Built-in)     | [[https://www.npmjs.com/][NPMRepository]]            |
+| [[http://www.ros.org/][ROS]]                               | [[http://www.ros.org/][Download]]  | [[http://wiki.ros.org/rosdep][rosdep]]            | [[http://www.ros.org/browse/list.php][ROS-Repository]]           |
+| [[https://solus-project.com/][Solus]]                             | [[https://solus-project.com/download/][Download]]  | [[https://solus-project.com/articles/package-management/repo-management/en/][eopkg]](Built-in)   | [[https://packages.solus-project.com/][Packages]]                 |
+| [[https://improbable.io/games][SpatialOS]]                         | [[https://improbable.io/get-spatialos][Download]]  | [[https://docs.improbable.io/reference/12.1/shared/spatial-cli/introduction][spatial]](Built-in) | None                     |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://chocolatey.org/][Choco]])                   | [[https://chocolatey.org/install][Install]]   | [[https://chocolatey.org/][Chocolatey]]        | [[https://chocolatey.org/packages][ChocolateyPackages]]       |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://scoop.sh/][Scoop]])                   | [[https://scoop.sh/][Install]]   | [[https://scoop.sh/][scoop]]             | [[https://github.com/lukesampson/scoop/tree/master/bucket][ScoopBucket]]              |
+| [[https://www.microsoft.com/en-us/windows/][Windows]] ([[https://learn.microsoft.com/en-us/windows/package-manager/][Windows Package Manager]]) | [[https://github.com/microsoft/winget-cli#installing-the-client][Install]]   | [[https://github.com/microsoft/winget-cli][winget-cli]]        | [[https://github.com/microsoft/winget-pkgs][winget-pkgs]] ([[https://winget.run/][winget.run]]) |
+| [[https://github.com/epitron/upm#package-tools-to-wrap][Universal]]                         | /         | [[https://github.com/epitron/upm][upm]]               | None                     |
 
 ** Other
 | Name                 | Installer | PackageManager    | Repository  |
