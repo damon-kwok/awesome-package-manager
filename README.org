@@ -264,6 +264,8 @@ A list of package manager.
 | *[[https://www.docker.com][Docker]]*                          | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][DockerHub]]                |
 | Debian / Ubuntu                   | [[https://github.com/pacstall/pacstall#installing][Install]]   | [[https://pacstall.dev/][Pacstall]]          | [[https://pacstall.dev/packages][Packages]]                 |
 | Ubuntu                            | /         | [[https://launchpad.net/ubuntu/+ppas][PPA]]               | [[https://launchpad.net/ubuntu/+ppas][ppas]]                     |
+| Fedora                            | /         | [[https://copr.fedorainfracloud.org/coprs/][Copr]]              | [[https://copr.fedorainfracloud.org/coprs/][Coprs]]                    |
+| Gentoo                            | /         | [[https://github.com/microcai/gentoo-zh][Overlays]]          | [[https://gpo.zugaina.org/][Search]]                   |
 | [[https://www.gnu.org/software/guix/][GNU Guix]]                          | [[https://www.gnu.org/software/guix/download/][Download]]  | Guix (Built-in)   | [[https://www.gnu.org/software/guix/packages/][Packages]]                 |
 | [[https://kubernetes.io/][Kubernetes]]                        | [[https://kubernetes.io/docs/tasks/tools/install-kubectl/][Install]]   | [[https://helm.sh/][Helm]]              | [[https://hub.docker.com/][DockerHub]]                |
 | [[https://www.kernel.org/][Linux]]                             | [[https://www.kernel.org/][Download]]  | [[http://linuxbrew.sh/][Linuxbrew]]         | [[http://braumeister.org/][Formulae]]                 |
