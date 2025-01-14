@@ -262,6 +262,7 @@ A list of package manager.
 | Cluster                           | None      | [[https://saltstack.com/][SlatStack]]         | [[https://repo.saltstack.com/][PackageRepo]]              |
 | [[https://www.cygwin.com/][Cygwin]]                            | [[https://cygwin.com/install.html][Download]]  | [[https://github.com/kou1okada/apt-cyg][apt-cyg]]/[[https://github.com/svnpenn/sage][sage]]      | [[https://cygwin.com/cgi-bin2/package-grep.cgi][CygwinPackageSearch]]      |
 | *[[https://www.docker.com][Docker]]*                          | [[https://www.docker.com/get-docker][Download]]  | [[https://hub.docker.com/][docker]](Built-in)  | [[https://hub.docker.com/][DockerHub]]                |
+| [[https://linuxcontainers.org/][LXC]]                               | [[https://linuxcontainers.org/lxc/downloads/][Download]]  | lxc(Built-in)     | [[https://images.linuxcontainers.org/][Images]]                   |
 | Debian / Ubuntu                   | [[https://github.com/pacstall/pacstall#installing][Install]]   | [[https://pacstall.dev/][Pacstall]]          | [[https://pacstall.dev/packages][Packages]]                 |
 | Ubuntu                            | /         | [[https://launchpad.net/ubuntu/+ppas][PPA]]               | [[https://launchpad.net/ubuntu/+ppas][ppas]]                     |
 | Fedora                            | /         | [[https://copr.fedorainfracloud.org/coprs/][Copr]]              | [[https://copr.fedorainfracloud.org/coprs/][Coprs]]                    |
